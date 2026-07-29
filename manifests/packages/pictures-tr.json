@@ -1,0 +1,72 @@
+{
+  "package": "pictures-tr",
+  "revision": 1,
+  "updated": "2026-07-29T14:37:16Z",
+  "folder": "backgrounds/apk_pictures_tr",
+  "count": 7,
+  "slides": [
+    {
+      "id": "1c48401cbfba22f0",
+      "file": "backgrounds/apk_pictures_tr/1c48401cbfba22f0.jpg",
+      "sha256": "1c48401cbfba22f03be538cb3dfe35fcc1ef3585ae5129426001af19fc688c0d",
+      "bytes": 467385,
+      "order": 1,
+      "source_name": "1c48401cbfba22f0.jpg",
+      "url": "https://github.com/auperudauru/tefekkur-assets/releases/download/pictures-tr-v1/1c48401cbfba22f0.jpg"
+    },
+    {
+      "id": "44c862aaaaee7dbd",
+      "file": "backgrounds/apk_pictures_tr/44c862aaaaee7dbd.jpg",
+      "sha256": "44c862aaaaee7dbd7f651f39a4bdf316dd38964e2adabfe505deed3ff51ddfc8",
+      "bytes": 3038395,
+      "order": 2,
+      "source_name": "44c862aaaaee7dbd.jpg",
+      "url": "https://github.com/auperudauru/tefekkur-assets/releases/download/pictures-tr-v1/44c862aaaaee7dbd.jpg"
+    },
+    {
+      "id": "75a09df971a883ad",
+      "file": "backgrounds/apk_pictures_tr/75a09df971a883ad.jpg",
+      "sha256": "75a09df971a883ada97ffbb9b7b5fffd9fd5af48ab9778fbd3ad8b0ac8baad19",
+      "bytes": 769818,
+      "order": 3,
+      "source_name": "75a09df971a883ad.jpg",
+      "url": "https://github.com/auperudauru/tefekkur-assets/releases/download/pictures-tr-v1/75a09df971a883ad.jpg"
+    },
+    {
+      "id": "7e24d82410d5a2b7",
+      "file": "backgrounds/apk_pictures_tr/7e24d82410d5a2b7.jpg",
+      "sha256": "7e24d82410d5a2b73a247ca389fa445940bc3e36e8e1c2ad9f47e10fd3ca3b5b",
+      "bytes": 1457750,
+      "order": 4,
+      "source_name": "7e24d82410d5a2b7.jpg",
+      "url": "https://github.com/auperudauru/tefekkur-assets/releases/download/pictures-tr-v1/7e24d82410d5a2b7.jpg"
+    },
+    {
+      "id": "8a4cad1a6a1ff87b",
+      "file": "backgrounds/apk_pictures_tr/8a4cad1a6a1ff87b.jpg",
+      "sha256": "8a4cad1a6a1ff87bd63087842dfc41ccad968dfc71bdb5b61213a76b30308ca1",
+      "bytes": 4188410,
+      "order": 5,
+      "source_name": "8a4cad1a6a1ff87b.jpg",
+      "url": "https://github.com/auperudauru/tefekkur-assets/releases/download/pictures-tr-v1/8a4cad1a6a1ff87b.jpg"
+    },
+    {
+      "id": "ab6a83e3d27e3915",
+      "file": "backgrounds/apk_pictures_tr/ab6a83e3d27e3915.jpg",
+      "sha256": "ab6a83e3d27e3915ab836402eb80fe9069d21b1d0e790898f60c26f0e7747fe9",
+      "bytes": 137005,
+      "order": 6,
+      "source_name": "ab6a83e3d27e3915.jpg",
+      "url": "https://github.com/auperudauru/tefekkur-assets/releases/download/pictures-tr-v1/ab6a83e3d27e3915.jpg"
+    },
+    {
+      "id": "c1750fbe9e0ac809",
+      "file": "backgrounds/apk_pictures_tr/c1750fbe9e0ac809.jpg",
+      "sha256": "c1750fbe9e0ac809edda6b2f320eda2887985d9771c251c6d88f70f47d1f9181",
+      "bytes": 223282,
+      "order": 7,
+      "source_name": "c1750fbe9e0ac809.jpg",
+      "url": "https://github.com/auperudauru/tefekkur-assets/releases/download/pictures-tr-v1/c1750fbe9e0ac809.jpg"
+    }
+  ]
+}
