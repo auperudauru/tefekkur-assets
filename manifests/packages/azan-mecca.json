@@ -1,0 +1,79 @@
+{
+  "package": "azan-mecca",
+  "revision": 1,
+  "updated": "2026-07-29T16:46:53Z",
+  "folder": "audio/apk_azan_mecca",
+  "count": 7,
+  "slides": [
+    {
+      "id": "677b007684f08eba",
+      "file": "audio/apk_azan_mecca/677b007684f08eba.mp4",
+      "sha256": "677b007684f08ebab84ff17711167db742fd53a6c4660c26c31895740f532806",
+      "bytes": 27000732,
+      "order": 1,
+      "source_name": "01-Fajr/001.mp4",
+      "role": "fajr",
+      "url": "https://github.com/auperudauru/tefekkur-assets/releases/download/azan-mecca-v1/677b007684f08eba.mp4"
+    },
+    {
+      "id": "5d49fff2654760bb",
+      "file": "audio/apk_azan_mecca/5d49fff2654760bb.mp4",
+      "sha256": "5d49fff2654760bb9a86b0bc1170b38a07eb159a96c0ff9183bb0628ef5f393a",
+      "bytes": 29715342,
+      "order": 2,
+      "source_name": "01-Fajr/002.mp4",
+      "role": "fajr",
+      "url": "https://github.com/auperudauru/tefekkur-assets/releases/download/azan-mecca-v1/5d49fff2654760bb.mp4"
+    },
+    {
+      "id": "7b277ef0319c3ae5",
+      "file": "audio/apk_azan_mecca/7b277ef0319c3ae5.mp3",
+      "sha256": "7b277ef0319c3ae5649b3afffde4efafbc6a487191dee708d25cf04d369eb593",
+      "bytes": 59858,
+      "order": 3,
+      "source_name": "02-Tulu/001.mp3",
+      "role": "tulu",
+      "url": "https://github.com/auperudauru/tefekkur-assets/releases/download/azan-mecca-v1/7b277ef0319c3ae5.mp3"
+    },
+    {
+      "id": "8eaf417629aa7b80",
+      "file": "audio/apk_azan_mecca/8eaf417629aa7b80.mp4",
+      "sha256": "8eaf417629aa7b8099b5e15108210c0614efac3b44191508d30798960e2b13ac",
+      "bytes": 32259437,
+      "order": 4,
+      "source_name": "03-Dhuhr/001.mp4",
+      "role": "dhuhr",
+      "url": "https://github.com/auperudauru/tefekkur-assets/releases/download/azan-mecca-v1/8eaf417629aa7b80.mp4"
+    },
+    {
+      "id": "8c16d7fa9b601863",
+      "file": "audio/apk_azan_mecca/8c16d7fa9b601863.mp4",
+      "sha256": "8c16d7fa9b60186304a922b4e063696869b00f026e49e1d03a2287675f2e9573",
+      "bytes": 21069124,
+      "order": 5,
+      "source_name": "04-Asr/001.mp4",
+      "role": "asr",
+      "url": "https://github.com/auperudauru/tefekkur-assets/releases/download/azan-mecca-v1/8c16d7fa9b601863.mp4"
+    },
+    {
+      "id": "88b7d37c9fce9eec",
+      "file": "audio/apk_azan_mecca/88b7d37c9fce9eec.mp4",
+      "sha256": "88b7d37c9fce9eecf2d29486347d97a0fd50d49fa1130234ca2d52da3e53384b",
+      "bytes": 35853599,
+      "order": 6,
+      "source_name": "05-Maghrib/001.mp4",
+      "role": "maghrib",
+      "url": "https://github.com/auperudauru/tefekkur-assets/releases/download/azan-mecca-v1/88b7d37c9fce9eec.mp4"
+    },
+    {
+      "id": "c9ac24082766fecb",
+      "file": "audio/apk_azan_mecca/c9ac24082766fecb.mp4",
+      "sha256": "c9ac24082766fecbff1ea245a29b41d4b637532826314e54fc937cd6775c0204",
+      "bytes": 9720771,
+      "order": 7,
+      "source_name": "06-Isha/001.mp4",
+      "role": "isha",
+      "url": "https://github.com/auperudauru/tefekkur-assets/releases/download/azan-mecca-v1/c9ac24082766fecb.mp4"
+    }
+  ]
+}
