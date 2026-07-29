@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-07-29T14:37:16Z",
+  "updated": "2026-07-29T16:46:54Z",
   "github_repo": "auperudauru/tefekkur-assets",
   "download_url_template": "https://github.com/auperudauru/tefekkur-assets/releases/download/{tag}/{file}",
   "packages": {
@@ -27,6 +27,30 @@
       "count": 6,
       "manifest": "manifests/packages/pictures-en.json",
       "release_tag": "pictures-en-v1"
+    },
+    "azan-turkey": {
+      "revision": 1,
+      "count": 19,
+      "manifest": "manifests/packages/azan-turkey.json",
+      "release_tag": "azan-turkey-v1"
+    },
+    "azan-mecca": {
+      "revision": 1,
+      "count": 7,
+      "manifest": "manifests/packages/azan-mecca.json",
+      "release_tag": "azan-mecca-v1"
+    },
+    "azan-egypt": {
+      "revision": 1,
+      "count": 10,
+      "manifest": "manifests/packages/azan-egypt.json",
+      "release_tag": "azan-egypt-v1"
+    },
+    "audio-extras": {
+      "revision": 1,
+      "count": 4,
+      "manifest": "manifests/packages/audio-extras.json",
+      "release_tag": "audio-extras-v1"
     }
   }
 }
