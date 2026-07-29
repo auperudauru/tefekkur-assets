@@ -1,0 +1,109 @@
+{
+  "package": "azan-egypt",
+  "revision": 1,
+  "updated": "2026-07-29T16:46:53Z",
+  "folder": "audio/apk_azan_egypt",
+  "count": 10,
+  "slides": [
+    {
+      "id": "745a5c76c9804dd1",
+      "file": "audio/apk_azan_egypt/745a5c76c9804dd1.mp4",
+      "sha256": "745a5c76c9804dd1475215b68169c64d475669d827ca415cf9d1bbba6fd26a5e",
+      "bytes": 48407342,
+      "order": 1,
+      "source_name": "01-Fajr/001.mp4",
+      "role": "fajr",
+      "url": "https://github.com/auperudauru/tefekkur-assets/releases/download/azan-egypt-v1/745a5c76c9804dd1.mp4"
+    },
+    {
+      "id": "7b277ef0319c3ae5",
+      "file": "audio/apk_azan_egypt/7b277ef0319c3ae5.mp3",
+      "sha256": "7b277ef0319c3ae5649b3afffde4efafbc6a487191dee708d25cf04d369eb593",
+      "bytes": 59858,
+      "order": 2,
+      "source_name": "02-Tulu/001.mp3",
+      "role": "tulu",
+      "url": "https://github.com/auperudauru/tefekkur-assets/releases/download/azan-egypt-v1/7b277ef0319c3ae5.mp3"
+    },
+    {
+      "id": "49ed76e3326fd348",
+      "file": "audio/apk_azan_egypt/49ed76e3326fd348.mp4",
+      "sha256": "49ed76e3326fd34891510352ab31fa8efc1f98319a05df8b428319deed139306",
+      "bytes": 37959123,
+      "order": 3,
+      "source_name": "03-Dhuhr/001.mp4",
+      "role": "dhuhr",
+      "url": "https://github.com/auperudauru/tefekkur-assets/releases/download/azan-egypt-v1/49ed76e3326fd348.mp4"
+    },
+    {
+      "id": "c1f99d53da4693ee",
+      "file": "audio/apk_azan_egypt/c1f99d53da4693ee.mp4",
+      "sha256": "c1f99d53da4693eee1208aa93298b2f4c562fd7a79fb679c8db6de3bea132732",
+      "bytes": 37521396,
+      "order": 4,
+      "source_name": "03-Dhuhr/002.mp4",
+      "role": "dhuhr",
+      "url": "https://github.com/auperudauru/tefekkur-assets/releases/download/azan-egypt-v1/c1f99d53da4693ee.mp4"
+    },
+    {
+      "id": "619393f6e721b768",
+      "file": "audio/apk_azan_egypt/619393f6e721b768.mp4",
+      "sha256": "619393f6e721b768f6f21f1c68a915aa28885af37a4233dccd13ac46e043e435",
+      "bytes": 32885226,
+      "order": 5,
+      "source_name": "04-Asr/001.mp4",
+      "role": "asr",
+      "url": "https://github.com/auperudauru/tefekkur-assets/releases/download/azan-egypt-v1/619393f6e721b768.mp4"
+    },
+    {
+      "id": "588235f458129b57",
+      "file": "audio/apk_azan_egypt/588235f458129b57.mp4",
+      "sha256": "588235f458129b57bf0a908e33adbd15e05e930f00089c970a6660e2cb1a48db",
+      "bytes": 29687524,
+      "order": 6,
+      "source_name": "04-Asr/002.mp4",
+      "role": "asr",
+      "url": "https://github.com/auperudauru/tefekkur-assets/releases/download/azan-egypt-v1/588235f458129b57.mp4"
+    },
+    {
+      "id": "2c7c95f2dd9a8b75",
+      "file": "audio/apk_azan_egypt/2c7c95f2dd9a8b75.mp4",
+      "sha256": "2c7c95f2dd9a8b751460be1dfad5c1cfd4c10f552f07a6bfe37f287851510ac3",
+      "bytes": 18106683,
+      "order": 7,
+      "source_name": "05-Maghrib/001.mp4",
+      "role": "maghrib",
+      "url": "https://github.com/auperudauru/tefekkur-assets/releases/download/azan-egypt-v1/2c7c95f2dd9a8b75.mp4"
+    },
+    {
+      "id": "62fc5479acc1eb11",
+      "file": "audio/apk_azan_egypt/62fc5479acc1eb11.mp4",
+      "sha256": "62fc5479acc1eb11b7542cc5c33998bf6bc604e94eac3841284120812aa807d3",
+      "bytes": 26489529,
+      "order": 8,
+      "source_name": "05-Maghrib/002.mp4",
+      "role": "maghrib",
+      "url": "https://github.com/auperudauru/tefekkur-assets/releases/download/azan-egypt-v1/62fc5479acc1eb11.mp4"
+    },
+    {
+      "id": "bf7432adc57397d9",
+      "file": "audio/apk_azan_egypt/bf7432adc57397d9.mp4",
+      "sha256": "bf7432adc57397d91fb339d2ba9c0de42090bac597177a933f55136da33e5563",
+      "bytes": 29379543,
+      "order": 9,
+      "source_name": "06-Isha/001.mp4",
+      "role": "isha",
+      "url": "https://github.com/auperudauru/tefekkur-assets/releases/download/azan-egypt-v1/bf7432adc57397d9.mp4"
+    },
+    {
+      "id": "690e51d5bb318f71",
+      "file": "audio/apk_azan_egypt/690e51d5bb318f71.mp4",
+      "sha256": "690e51d5bb318f71137d0ed265370dae9a11e6b3d6a17651beb7f4f1b1aea138",
+      "bytes": 30511206,
+      "order": 10,
+      "source_name": "06-Isha/002.mp4",
+      "role": "isha",
+      "url": "https://github.com/auperudauru/tefekkur-assets/releases/download/azan-egypt-v1/690e51d5bb318f71.mp4"
+    }
+  ]
+}
