@@ -1,0 +1,49 @@
+{
+  "package": "audio-extras",
+  "revision": 1,
+  "updated": "2026-07-29T16:46:54Z",
+  "folder": "audio/apk",
+  "count": 4,
+  "slides": [
+    {
+      "id": "0684208d9309d586",
+      "file": "audio/apk/0684208d9309d586.mp3",
+      "sha256": "0684208d9309d586530cf8804db038b7dcd8b2a5e9da1572ddee0f3dab96dc3b",
+      "bytes": 1036004,
+      "order": 1,
+      "source_name": "azan.mp3",
+      "role": "",
+      "url": "https://github.com/auperudauru/tefekkur-assets/releases/download/audio-extras-v1/0684208d9309d586.mp3"
+    },
+    {
+      "id": "ef87b1cee518f5f8",
+      "file": "audio/apk/ef87b1cee518f5f8.mp3",
+      "sha256": "ef87b1cee518f5f8d357c8a11948ef9247bc3e2d8dd238b11639adc8fa7c0704",
+      "bytes": 4334489,
+      "order": 2,
+      "source_name": "azan_remote.mp3",
+      "role": "",
+      "url": "https://github.com/auperudauru/tefekkur-assets/releases/download/audio-extras-v1/ef87b1cee518f5f8.mp3"
+    },
+    {
+      "id": "d3b2291b956d3bad",
+      "file": "audio/apk/d3b2291b956d3bad.mp3",
+      "sha256": "d3b2291b956d3badd84dd8d4260563972075a6be0e26f91ecc1804ee3e41ec41",
+      "bytes": 376928,
+      "order": 3,
+      "source_name": "bird.mp3",
+      "role": "",
+      "url": "https://github.com/auperudauru/tefekkur-assets/releases/download/audio-extras-v1/d3b2291b956d3bad.mp3"
+    },
+    {
+      "id": "67bf61d28900a67a",
+      "file": "audio/apk/67bf61d28900a67a.mp3",
+      "sha256": "67bf61d28900a67a243b2759c6389e84ee857d12313f70ad83d09033b1b8c26c",
+      "bytes": 1344159,
+      "order": 4,
+      "source_name": "tesbihat.mp3",
+      "role": "",
+      "url": "https://github.com/auperudauru/tefekkur-assets/releases/download/audio-extras-v1/67bf61d28900a67a.mp3"
+    }
+  ]
+}
