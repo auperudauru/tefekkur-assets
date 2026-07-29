@@ -1,0 +1,199 @@
+{
+  "package": "azan-turkey",
+  "revision": 1,
+  "updated": "2026-07-29T16:46:53Z",
+  "folder": "audio/apk_azan_tr",
+  "count": 19,
+  "slides": [
+    {
+      "id": "f0b2ebeb0a35a1d4",
+      "file": "audio/apk_azan_tr/f0b2ebeb0a35a1d4.mp4",
+      "sha256": "f0b2ebeb0a35a1d4534ed1fe634cab65c457c1800405f4541e22aa0223120b2e",
+      "bytes": 63616824,
+      "order": 1,
+      "source_name": "01-Fajr/001.mp4",
+      "role": "fajr",
+      "url": "https://github.com/auperudauru/tefekkur-assets/releases/download/azan-turkey-v1/f0b2ebeb0a35a1d4.mp4"
+    },
+    {
+      "id": "f66f9ed848a1452e",
+      "file": "audio/apk_azan_tr/f66f9ed848a1452e.mp4",
+      "sha256": "f66f9ed848a1452e7b77143f4f969ee659f9e6a8a8dd552079d82b2191c55f59",
+      "bytes": 46250902,
+      "order": 2,
+      "source_name": "01-Fajr/002.mp4",
+      "role": "fajr",
+      "url": "https://github.com/auperudauru/tefekkur-assets/releases/download/azan-turkey-v1/f66f9ed848a1452e.mp4"
+    },
+    {
+      "id": "90af148c9a5adeeb",
+      "file": "audio/apk_azan_tr/90af148c9a5adeeb.mp4",
+      "sha256": "90af148c9a5adeeb3149a2393ea8ebf39fffaec3b8e5066e3e6a50b32eaddcd2",
+      "bytes": 44227674,
+      "order": 3,
+      "source_name": "01-Fajr/003.mp4",
+      "role": "fajr",
+      "url": "https://github.com/auperudauru/tefekkur-assets/releases/download/azan-turkey-v1/90af148c9a5adeeb.mp4"
+    },
+    {
+      "id": "a187c47a4e4d2782",
+      "file": "audio/apk_azan_tr/a187c47a4e4d2782.mp4",
+      "sha256": "a187c47a4e4d27821da7ecee9bf88798f4bff64b01071867bae5d87b6380ac00",
+      "bytes": 14990292,
+      "order": 4,
+      "source_name": "01-Fajr/004.mp4",
+      "role": "fajr",
+      "url": "https://github.com/auperudauru/tefekkur-assets/releases/download/azan-turkey-v1/a187c47a4e4d2782.mp4"
+    },
+    {
+      "id": "7b277ef0319c3ae5",
+      "file": "audio/apk_azan_tr/7b277ef0319c3ae5.mp3",
+      "sha256": "7b277ef0319c3ae5649b3afffde4efafbc6a487191dee708d25cf04d369eb593",
+      "bytes": 59858,
+      "order": 5,
+      "source_name": "02-Tulu/001.mp3",
+      "role": "tulu",
+      "url": "https://github.com/auperudauru/tefekkur-assets/releases/download/azan-turkey-v1/7b277ef0319c3ae5.mp3"
+    },
+    {
+      "id": "0bf573c7f098ad80",
+      "file": "audio/apk_azan_tr/0bf573c7f098ad80.mp4",
+      "sha256": "0bf573c7f098ad8029312b46d0268c8d0632984e70ece6eae8e298c025325057",
+      "bytes": 45379288,
+      "order": 6,
+      "source_name": "03-Dhuhr/001.mp4",
+      "role": "dhuhr",
+      "url": "https://github.com/auperudauru/tefekkur-assets/releases/download/azan-turkey-v1/0bf573c7f098ad80.mp4"
+    },
+    {
+      "id": "8ce78e7ece0e4ab9",
+      "file": "audio/apk_azan_tr/8ce78e7ece0e4ab9.mp4",
+      "sha256": "8ce78e7ece0e4ab9ebee78124df5a3911c969ee45277e12faa792c32218c8684",
+      "bytes": 41034831,
+      "order": 7,
+      "source_name": "03-Dhuhr/002.mp4",
+      "role": "dhuhr",
+      "url": "https://github.com/auperudauru/tefekkur-assets/releases/download/azan-turkey-v1/8ce78e7ece0e4ab9.mp4"
+    },
+    {
+      "id": "297f08535741d35c",
+      "file": "audio/apk_azan_tr/297f08535741d35c.mp4",
+      "sha256": "297f08535741d35c2e13eeb1ae3b39b4a823c72e68eb5b5cb471ae79c6f03390",
+      "bytes": 43305540,
+      "order": 8,
+      "source_name": "03-Dhuhr/003.mp4",
+      "role": "dhuhr",
+      "url": "https://github.com/auperudauru/tefekkur-assets/releases/download/azan-turkey-v1/297f08535741d35c.mp4"
+    },
+    {
+      "id": "9201f59195a91402",
+      "file": "audio/apk_azan_tr/9201f59195a91402.mp4",
+      "sha256": "9201f59195a914020232131c2d41f85c18a5976e0d8bc6e474cb39ff98749c9c",
+      "bytes": 33455372,
+      "order": 9,
+      "source_name": "04-Asr/001.mp4",
+      "role": "asr",
+      "url": "https://github.com/auperudauru/tefekkur-assets/releases/download/azan-turkey-v1/9201f59195a91402.mp4"
+    },
+    {
+      "id": "4628fe06ee03a61c",
+      "file": "audio/apk_azan_tr/4628fe06ee03a61c.mp4",
+      "sha256": "4628fe06ee03a61c15896d85bf7dfeeee95438ea8bee6f99cf25e0320a71ed73",
+      "bytes": 34989832,
+      "order": 10,
+      "source_name": "04-Asr/002.mp4",
+      "role": "asr",
+      "url": "https://github.com/auperudauru/tefekkur-assets/releases/download/azan-turkey-v1/4628fe06ee03a61c.mp4"
+    },
+    {
+      "id": "a4d4a7e9e5401773",
+      "file": "audio/apk_azan_tr/a4d4a7e9e5401773.mp4",
+      "sha256": "a4d4a7e9e54017730a8b685466cfb29c53a07b523a4dd574c36ee2812b370a8c",
+      "bytes": 33796924,
+      "order": 11,
+      "source_name": "04-Asr/003.mp4",
+      "role": "asr",
+      "url": "https://github.com/auperudauru/tefekkur-assets/releases/download/azan-turkey-v1/a4d4a7e9e5401773.mp4"
+    },
+    {
+      "id": "240cb119c033a7d9",
+      "file": "audio/apk_azan_tr/240cb119c033a7d9.mp4",
+      "sha256": "240cb119c033a7d959cb9b225ae030e1eaeb017801245ec7d2b8f7af24c9b2d3",
+      "bytes": 28313484,
+      "order": 12,
+      "source_name": "05-Maghrib/001.mp4",
+      "role": "maghrib",
+      "url": "https://github.com/auperudauru/tefekkur-assets/releases/download/azan-turkey-v1/240cb119c033a7d9.mp4"
+    },
+    {
+      "id": "c6613f10a86b9e63",
+      "file": "audio/apk_azan_tr/c6613f10a86b9e63.mp4",
+      "sha256": "c6613f10a86b9e637b69c39f88d35cd44b3aa5eaf1305e995e2c945aada9d478",
+      "bytes": 12386297,
+      "order": 13,
+      "source_name": "05-Maghrib/002.mp4",
+      "role": "maghrib",
+      "url": "https://github.com/auperudauru/tefekkur-assets/releases/download/azan-turkey-v1/c6613f10a86b9e63.mp4"
+    },
+    {
+      "id": "24dbe1512811f1d0",
+      "file": "audio/apk_azan_tr/24dbe1512811f1d0.mp4",
+      "sha256": "24dbe1512811f1d0db97669b90f81e26bffd9866362be5d7140c684af109ed9e",
+      "bytes": 27185875,
+      "order": 14,
+      "source_name": "05-Maghrib/003.mp4",
+      "role": "maghrib",
+      "url": "https://github.com/auperudauru/tefekkur-assets/releases/download/azan-turkey-v1/24dbe1512811f1d0.mp4"
+    },
+    {
+      "id": "8d34b38466632281",
+      "file": "audio/apk_azan_tr/8d34b38466632281.mp4",
+      "sha256": "8d34b384666322818689bb6fafd6b1bff3e7da7e8753e3dd0bd12c1d5c8937e6",
+      "bytes": 19159885,
+      "order": 15,
+      "source_name": "05-Maghrib/004.mp4",
+      "role": "maghrib",
+      "url": "https://github.com/auperudauru/tefekkur-assets/releases/download/azan-turkey-v1/8d34b38466632281.mp4"
+    },
+    {
+      "id": "350264395318d6ae",
+      "file": "audio/apk_azan_tr/350264395318d6ae.mp4",
+      "sha256": "350264395318d6aee9214125da9a968712bf5185d912c576bad7b867ac9bde74",
+      "bytes": 40689398,
+      "order": 16,
+      "source_name": "06-Isha/001.mp4",
+      "role": "isha",
+      "url": "https://github.com/auperudauru/tefekkur-assets/releases/download/azan-turkey-v1/350264395318d6ae.mp4"
+    },
+    {
+      "id": "f7944d97c2a9f772",
+      "file": "audio/apk_azan_tr/f7944d97c2a9f772.mp4",
+      "sha256": "f7944d97c2a9f77299d4fe54cf5c5c9d1c6aa8c1bfc74c049323f108b340c985",
+      "bytes": 41057929,
+      "order": 17,
+      "source_name": "06-Isha/002.mp4",
+      "role": "isha",
+      "url": "https://github.com/auperudauru/tefekkur-assets/releases/download/azan-turkey-v1/f7944d97c2a9f772.mp4"
+    },
+    {
+      "id": "c795160c33bf33e7",
+      "file": "audio/apk_azan_tr/c795160c33bf33e7.mp4",
+      "sha256": "c795160c33bf33e702e1de4d6f7dd9388ec46bb8487461695d1f5fba2af382aa",
+      "bytes": 38101156,
+      "order": 18,
+      "source_name": "06-Isha/003.mp4",
+      "role": "isha",
+      "url": "https://github.com/auperudauru/tefekkur-assets/releases/download/azan-turkey-v1/c795160c33bf33e7.mp4"
+    },
+    {
+      "id": "b318763a8895575d",
+      "file": "audio/apk_azan_tr/b318763a8895575d.mp4",
+      "sha256": "b318763a8895575d9f6d48b6e06ec780392151fe66a495ed7d19cda00ccab3c8",
+      "bytes": 18779320,
+      "order": 19,
+      "source_name": "06-Isha/004.mp4",
+      "role": "isha",
+      "url": "https://github.com/auperudauru/tefekkur-assets/releases/download/azan-turkey-v1/b318763a8895575d.mp4"
+    }
+  ]
+}
