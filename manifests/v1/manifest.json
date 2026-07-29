@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "updated": "2026-07-29T14:37:16Z",
+  "github_repo": "auperudauru/tefekkur-assets",
+  "download_url_template": "https://github.com/auperudauru/tefekkur-assets/releases/download/{tag}/{file}",
+  "packages": {
+    "screensaver-tr": {
+      "revision": 1,
+      "count": 685,
+      "manifest": "manifests/packages/screensaver-tr.json",
+      "release_tag": "screensaver-tr-v1"
+    },
+    "screensaver-en": {
+      "revision": 1,
+      "count": 144,
+      "manifest": "manifests/packages/screensaver-en.json",
+      "release_tag": "screensaver-en-v1"
+    },
+    "pictures-tr": {
+      "revision": 1,
+      "count": 7,
+      "manifest": "manifests/packages/pictures-tr.json",
+      "release_tag": "pictures-tr-v1"
+    },
+    "pictures-en": {
+      "revision": 1,
+      "count": 6,
+      "manifest": "manifests/packages/pictures-en.json",
+      "release_tag": "pictures-en-v1"
+    }
+  }
+}
