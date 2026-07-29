@@ -1,0 +1,1305 @@
+{
+  "package": "screensaver-en",
+  "revision": 1,
+  "updated": "2026-07-29T14:37:16Z",
+  "folder": "backgrounds/apk_screensaver_eng",
+  "count": 144,
+  "slides": [
+    {
+      "id": "00ba79e3c9775779",
+      "file": "backgrounds/apk_screensaver_eng/00ba79e3c9775779.jpg",
+      "sha256": "00ba79e3c977577968fef9ac46fab21cc761086703620b2471b8c1a8cfa4c691",
+      "bytes": 407061,
+      "order": 1,
+      "source_name": "00ba79e3c9775779.jpg",
+      "url": "https://github.com/auperudauru/tefekkur-assets/releases/download/screensaver-en-v1/00ba79e3c9775779.jpg"
+    },
+    {
+      "id": "02964e18bc3ce44e",
+      "file": "backgrounds/apk_screensaver_eng/02964e18bc3ce44e.jpg",
+      "sha256": "02964e18bc3ce44ee4c102903b4b994f2130c700fb2eb4e4eb36c945e26bb9fb",
+      "bytes": 9872173,
+      "order": 2,
+      "source_name": "02964e18bc3ce44e.jpg",
+      "url": "https://github.com/auperudauru/tefekkur-assets/releases/download/screensaver-en-v1/02964e18bc3ce44e.jpg"
+    },
+    {
+      "id": "0437b16edd3d6dab",
+      "file": "backgrounds/apk_screensaver_eng/0437b16edd3d6dab.jpg",
+      "sha256": "0437b16edd3d6dab8ed99b0f456e9b4d014bb858d32706e8871af402836ca281",
+      "bytes": 163692,
+      "order": 3,
+      "source_name": "0437b16edd3d6dab.jpg",
+      "url": "https://github.com/auperudauru/tefekkur-assets/releases/download/screensaver-en-v1/0437b16edd3d6dab.jpg"
+    },
+    {
+      "id": "053fa08d1098307f",
+      "file": "backgrounds/apk_screensaver_eng/053fa08d1098307f.jpg",
+      "sha256": "053fa08d1098307f3984289ec3a76c89668c8a0cc34cc8e97b21cf8845e46d7b",
+      "bytes": 167531,
+      "order": 4,
+      "source_name": "053fa08d1098307f.jpg",
+      "url": "https://github.com/auperudauru/tefekkur-assets/releases/download/screensaver-en-v1/053fa08d1098307f.jpg"
+    },
+    {
+      "id": "0b40d0be297c6714",
+      "file": "backgrounds/apk_screensaver_eng/0b40d0be297c6714.jpg",
+      "sha256": "0b40d0be297c6714a6d4aaae6b7cc7bc7225c00cb6bada15374ef05d47094e5f",
+      "bytes": 478799,
+      "order": 5,
+      "source_name": "0b40d0be297c6714.jpg",
+      "url": "https://github.com/auperudauru/tefekkur-assets/releases/download/screensaver-en-v1/0b40d0be297c6714.jpg"
+    },
+    {
+      "id": "0b64fd634e0e7cab",
+      "file": "backgrounds/apk_screensaver_eng/0b64fd634e0e7cab.jpg",
+      "sha256": "0b64fd634e0e7cab55a37f2dac237eb558f9612816a0b1117730ab1db9a84875",
+      "bytes": 160918,
+      "order": 6,
+      "source_name": "0b64fd634e0e7cab.jpg",
+      "url": "https://github.com/auperudauru/tefekkur-assets/releases/download/screensaver-en-v1/0b64fd634e0e7cab.jpg"
+    },
+    {
+      "id": "0cad66efd932f21d",
+      "file": "backgrounds/apk_screensaver_eng/0cad66efd932f21d.jpg",
+      "sha256": "0cad66efd932f21d3643bee75a63c3ce4999b456f4c343f7c5449ac54e211a03",
+      "bytes": 236763,
+      "order": 7,
+      "source_name": "0cad66efd932f21d.jpg",
+      "url": "https://github.com/auperudauru/tefekkur-assets/releases/download/screensaver-en-v1/0cad66efd932f21d.jpg"
+    },
+    {
+      "id": "0f00bc49ac34a7c8",
+      "file": "backgrounds/apk_screensaver_eng/0f00bc49ac34a7c8.jpg",
+      "sha256": "0f00bc49ac34a7c8864f6ebd17964ddcfdbb0a3998a0731c07d647e9450044fc",
+      "bytes": 527986,
+      "order": 8,
+      "source_name": "0f00bc49ac34a7c8.jpg",
+      "url": "https://github.com/auperudauru/tefekkur-assets/releases/download/screensaver-en-v1/0f00bc49ac34a7c8.jpg"
+    },
+    {
+      "id": "139174bc8a357b1a",
+      "file": "backgrounds/apk_screensaver_eng/139174bc8a357b1a.jpg",
+      "sha256": "139174bc8a357b1a079716351cf969b364e2828cefa92f3ca74a9c9974ab7e80",
+      "bytes": 9307496,
+      "order": 9,
+      "source_name": "139174bc8a357b1a.jpg",
+      "url": "https://github.com/auperudauru/tefekkur-assets/releases/download/screensaver-en-v1/139174bc8a357b1a.jpg"
+    },
+    {
+      "id": "1880821d823716bf",
+      "file": "backgrounds/apk_screensaver_eng/1880821d823716bf.jpg",
+      "sha256": "1880821d823716bf971c7a9bb93e49e524fca2814164682256509126030ba351",
+      "bytes": 7407119,
+      "order": 10,
+      "source_name": "1880821d823716bf.jpg",
+      "url": "https://github.com/auperudauru/tefekkur-assets/releases/download/screensaver-en-v1/1880821d823716bf.jpg"
+    },
+    {
+      "id": "188d8c6f4175236c",
+      "file": "backgrounds/apk_screensaver_eng/188d8c6f4175236c.jpg",
+      "sha256": "188d8c6f4175236cbd3de3a2188b6ee4e9364a44a18d013ec2c4bba9fd903d91",
+      "bytes": 458484,
+      "order": 11,
+      "source_name": "188d8c6f4175236c.jpg",
+      "url": "https://github.com/auperudauru/tefekkur-assets/releases/download/screensaver-en-v1/188d8c6f4175236c.jpg"
+    },
+    {
+      "id": "18e20efaff351fbd",
+      "file": "backgrounds/apk_screensaver_eng/18e20efaff351fbd.jpg",
+      "sha256": "18e20efaff351fbd9d5bc233b34c1774dbaf309b28088c0483cf26a53360a561",
+      "bytes": 225237,
+      "order": 12,
+      "source_name": "18e20efaff351fbd.jpg",
+      "url": "https://github.com/auperudauru/tefekkur-assets/releases/download/screensaver-en-v1/18e20efaff351fbd.jpg"
+    },
+    {
+      "id": "19ebc1b987de3fb4",
+      "file": "backgrounds/apk_screensaver_eng/19ebc1b987de3fb4.jpg",
+      "sha256": "19ebc1b987de3fb491031ad745b9e005f08aefb67ddd8cb9e570bc49d15a78b3",
+      "bytes": 143998,
+      "order": 13,
+      "source_name": "19ebc1b987de3fb4.jpg",
+      "url": "https://github.com/auperudauru/tefekkur-assets/releases/download/screensaver-en-v1/19ebc1b987de3fb4.jpg"
+    },
+    {
+      "id": "1b00c6b88aaba379",
+      "file": "backgrounds/apk_screensaver_eng/1b00c6b88aaba379.jpg",
+      "sha256": "1b00c6b88aaba3794f0a157007d3dcce48c58d891193e0f32384777c6ab4cea4",
+      "bytes": 348401,
+      "order": 14,
+      "source_name": "1b00c6b88aaba379.jpg",
+      "url": "https://github.com/auperudauru/tefekkur-assets/releases/download/screensaver-en-v1/1b00c6b88aaba379.jpg"
+    },
+    {
+      "id": "1b4c4904974bbb77",
+      "file": "backgrounds/apk_screensaver_eng/1b4c4904974bbb77.jpg",
+      "sha256": "1b4c4904974bbb77912f9c53a7e07591a8f5c79434493e28272189d01b8a920c",
+      "bytes": 207336,
+      "order": 15,
+      "source_name": "1b4c4904974bbb77.jpg",
+      "url": "https://github.com/auperudauru/tefekkur-assets/releases/download/screensaver-en-v1/1b4c4904974bbb77.jpg"
+    },
+    {
+      "id": "1b588f39b178029f",
+      "file": "backgrounds/apk_screensaver_eng/1b588f39b178029f.jpg",
+      "sha256": "1b588f39b178029f450ba650f3a129c02827ae3c48b7baec8dfd2adc6b823636",
+      "bytes": 185489,
+      "order": 16,
+      "source_name": "1b588f39b178029f.jpg",
+      "url": "https://github.com/auperudauru/tefekkur-assets/releases/download/screensaver-en-v1/1b588f39b178029f.jpg"
+    },
+    {
+      "id": "1eb48b8201a7c55a",
+      "file": "backgrounds/apk_screensaver_eng/1eb48b8201a7c55a.jpg",
+      "sha256": "1eb48b8201a7c55a0215f803b1bc8d3df367461765a41e91a490d0b9ffc71610",
+      "bytes": 285003,
+      "order": 17,
+      "source_name": "1eb48b8201a7c55a.jpg",
+      "url": "https://github.com/auperudauru/tefekkur-assets/releases/download/screensaver-en-v1/1eb48b8201a7c55a.jpg"
+    },
+    {
+      "id": "240fe87c1cc24deb",
+      "file": "backgrounds/apk_screensaver_eng/240fe87c1cc24deb.jpg",
+      "sha256": "240fe87c1cc24debafc7e68571eb8afe9731000ae2733a80fe6e78d01e1c92ee",
+      "bytes": 166725,
+      "order": 18,
+      "source_name": "240fe87c1cc24deb.jpg",
+      "url": "https://github.com/auperudauru/tefekkur-assets/releases/download/screensaver-en-v1/240fe87c1cc24deb.jpg"
+    },
+    {
+      "id": "253f68986bb05486",
+      "file": "backgrounds/apk_screensaver_eng/253f68986bb05486.jpg",
+      "sha256": "253f68986bb0548620bc8f8c657d2fcc8581eb7482897a69b3ee0238f6e1f584",
+      "bytes": 201872,
+      "order": 19,
+      "source_name": "253f68986bb05486.jpg",
+      "url": "https://github.com/auperudauru/tefekkur-assets/releases/download/screensaver-en-v1/253f68986bb05486.jpg"
+    },
+    {
+      "id": "274d10d56395344c",
+      "file": "backgrounds/apk_screensaver_eng/274d10d56395344c.jpg",
+      "sha256": "274d10d56395344cd53eb6b5b593bbabc9db78e3d092b1c47b0c127e85421ae0",
+      "bytes": 47164,
+      "order": 20,
+      "source_name": "274d10d56395344c.jpg",
+      "url": "https://github.com/auperudauru/tefekkur-assets/releases/download/screensaver-en-v1/274d10d56395344c.jpg"
+    },
+    {
+      "id": "2821edc328993292",
+      "file": "backgrounds/apk_screensaver_eng/2821edc328993292.jpg",
+      "sha256": "2821edc3289932920406b1e9bdd11a8bad8c0183f503841b403b81d6ff165ad3",
+      "bytes": 649703,
+      "order": 21,
+      "source_name": "2821edc328993292.jpg",
+      "url": "https://github.com/auperudauru/tefekkur-assets/releases/download/screensaver-en-v1/2821edc328993292.jpg"
+    },
+    {
+      "id": "2ff2a10d7b8bbc35",
+      "file": "backgrounds/apk_screensaver_eng/2ff2a10d7b8bbc35.jpg",
+      "sha256": "2ff2a10d7b8bbc35e8687c313ea404b1ffb3c19ceee7b7bf348b59454c4934df",
+      "bytes": 467145,
+      "order": 22,
+      "source_name": "2ff2a10d7b8bbc35.jpg",
+      "url": "https://github.com/auperudauru/tefekkur-assets/releases/download/screensaver-en-v1/2ff2a10d7b8bbc35.jpg"
+    },
+    {
+      "id": "322ca8cc37ab7f4c",
+      "file": "backgrounds/apk_screensaver_eng/322ca8cc37ab7f4c.jpg",
+      "sha256": "322ca8cc37ab7f4c92a4b444bfbbfe5546012dc52f9a806dd18be651a45e0d2a",
+      "bytes": 203832,
+      "order": 23,
+      "source_name": "322ca8cc37ab7f4c.jpg",
+      "url": "https://github.com/auperudauru/tefekkur-assets/releases/download/screensaver-en-v1/322ca8cc37ab7f4c.jpg"
+    },
+    {
+      "id": "32374e877a5faf6a",
+      "file": "backgrounds/apk_screensaver_eng/32374e877a5faf6a.jpg",
+      "sha256": "32374e877a5faf6a0ada6734766223163da9390916a05ff95e81a0f28ebf80d3",
+      "bytes": 304113,
+      "order": 24,
+      "source_name": "32374e877a5faf6a.jpg",
+      "url": "https://github.com/auperudauru/tefekkur-assets/releases/download/screensaver-en-v1/32374e877a5faf6a.jpg"
+    },
+    {
+      "id": "324c219f1ab99322",
+      "file": "backgrounds/apk_screensaver_eng/324c219f1ab99322.jpg",
+      "sha256": "324c219f1ab993221dd40a7874e9007ba7b89956530a4ccd40e753a0c6daa62d",
+      "bytes": 185414,
+      "order": 25,
+      "source_name": "324c219f1ab99322.jpg",
+      "url": "https://github.com/auperudauru/tefekkur-assets/releases/download/screensaver-en-v1/324c219f1ab99322.jpg"
+    },
+    {
+      "id": "337eeecee030306e",
+      "file": "backgrounds/apk_screensaver_eng/337eeecee030306e.jpg",
+      "sha256": "337eeecee030306ec80575f46e385d90829f3292bdcaf9783e04cffa37778eeb",
+      "bytes": 163007,
+      "order": 26,
+      "source_name": "337eeecee030306e.jpg",
+      "url": "https://github.com/auperudauru/tefekkur-assets/releases/download/screensaver-en-v1/337eeecee030306e.jpg"
+    },
+    {
+      "id": "3502c7735be9bf48",
+      "file": "backgrounds/apk_screensaver_eng/3502c7735be9bf48.jpg",
+      "sha256": "3502c7735be9bf48b6bc666dfcb74ea93a3088f233e379a35ceaafb1a659f424",
+      "bytes": 158334,
+      "order": 27,
+      "source_name": "3502c7735be9bf48.jpg",
+      "url": "https://github.com/auperudauru/tefekkur-assets/releases/download/screensaver-en-v1/3502c7735be9bf48.jpg"
+    },
+    {
+      "id": "3625aebb64febc78",
+      "file": "backgrounds/apk_screensaver_eng/3625aebb64febc78.jpg",
+      "sha256": "3625aebb64febc78a4f3a3171b0a2a8105db64871b4a67d557575c3a657a933d",
+      "bytes": 352098,
+      "order": 28,
+      "source_name": "3625aebb64febc78.jpg",
+      "url": "https://github.com/auperudauru/tefekkur-assets/releases/download/screensaver-en-v1/3625aebb64febc78.jpg"
+    },
+    {
+      "id": "39d25e7b573f76f6",
+      "file": "backgrounds/apk_screensaver_eng/39d25e7b573f76f6.jpg",
+      "sha256": "39d25e7b573f76f6c6830fdf8811421d1957bdde2cf65cd6ea561c7498d6dddb",
+      "bytes": 267647,
+      "order": 29,
+      "source_name": "39d25e7b573f76f6.jpg",
+      "url": "https://github.com/auperudauru/tefekkur-assets/releases/download/screensaver-en-v1/39d25e7b573f76f6.jpg"
+    },
+    {
+      "id": "3b050a1119abffa6",
+      "file": "backgrounds/apk_screensaver_eng/3b050a1119abffa6.jpg",
+      "sha256": "3b050a1119abffa688b8dad5ccc4875be985837293ccf7dce8bd9c5d50cb288c",
+      "bytes": 8696301,
+      "order": 30,
+      "source_name": "3b050a1119abffa6.jpg",
+      "url": "https://github.com/auperudauru/tefekkur-assets/releases/download/screensaver-en-v1/3b050a1119abffa6.jpg"
+    },
+    {
+      "id": "3e4ef21ebc9caa10",
+      "file": "backgrounds/apk_screensaver_eng/3e4ef21ebc9caa10.jpg",
+      "sha256": "3e4ef21ebc9caa108d802f90b4879928083d5f752287ad2cabdbde21151d926d",
+      "bytes": 139030,
+      "order": 31,
+      "source_name": "3e4ef21ebc9caa10.jpg",
+      "url": "https://github.com/auperudauru/tefekkur-assets/releases/download/screensaver-en-v1/3e4ef21ebc9caa10.jpg"
+    },
+    {
+      "id": "3f288e6c9907ec5d",
+      "file": "backgrounds/apk_screensaver_eng/3f288e6c9907ec5d.jpg",
+      "sha256": "3f288e6c9907ec5d5842939e5cf91908333ac787b96c510d55fef20f479df3db",
+      "bytes": 156576,
+      "order": 32,
+      "source_name": "3f288e6c9907ec5d.jpg",
+      "url": "https://github.com/auperudauru/tefekkur-assets/releases/download/screensaver-en-v1/3f288e6c9907ec5d.jpg"
+    },
+    {
+      "id": "3f813c3b41dc67af",
+      "file": "backgrounds/apk_screensaver_eng/3f813c3b41dc67af.jpg",
+      "sha256": "3f813c3b41dc67af5ea2b133baf3a48c4b99d72d3375db885d1c470b24ad7ddf",
+      "bytes": 320352,
+      "order": 33,
+      "source_name": "3f813c3b41dc67af.jpg",
+      "url": "https://github.com/auperudauru/tefekkur-assets/releases/download/screensaver-en-v1/3f813c3b41dc67af.jpg"
+    },
+    {
+      "id": "42be5594e6b0fd21",
+      "file": "backgrounds/apk_screensaver_eng/42be5594e6b0fd21.jpg",
+      "sha256": "42be5594e6b0fd21e18b20aacdd740447d03acc5c57a1bf12c0ae4b4744dbf5a",
+      "bytes": 365768,
+      "order": 34,
+      "source_name": "42be5594e6b0fd21.jpg",
+      "url": "https://github.com/auperudauru/tefekkur-assets/releases/download/screensaver-en-v1/42be5594e6b0fd21.jpg"
+    },
+    {
+      "id": "44daffc2656e8412",
+      "file": "backgrounds/apk_screensaver_eng/44daffc2656e8412.jpg",
+      "sha256": "44daffc2656e8412ee6b59e38ef3b8633bfc8557bcbbbca1682c62ab240a5168",
+      "bytes": 174829,
+      "order": 35,
+      "source_name": "44daffc2656e8412.jpg",
+      "url": "https://github.com/auperudauru/tefekkur-assets/releases/download/screensaver-en-v1/44daffc2656e8412.jpg"
+    },
+    {
+      "id": "465d5a5a0574e523",
+      "file": "backgrounds/apk_screensaver_eng/465d5a5a0574e523.jpg",
+      "sha256": "465d5a5a0574e5232f5660f904cec5cae5d4a2b630d5e1217e26aed91c29e69d",
+      "bytes": 161567,
+      "order": 36,
+      "source_name": "465d5a5a0574e523.jpg",
+      "url": "https://github.com/auperudauru/tefekkur-assets/releases/download/screensaver-en-v1/465d5a5a0574e523.jpg"
+    },
+    {
+      "id": "46c39148ad889a1f",
+      "file": "backgrounds/apk_screensaver_eng/46c39148ad889a1f.jpg",
+      "sha256": "46c39148ad889a1fd3b5267f99c5e0c17208851ff9eac08f1bbd5add7a446250",
+      "bytes": 657508,
+      "order": 37,
+      "source_name": "46c39148ad889a1f.jpg",
+      "url": "https://github.com/auperudauru/tefekkur-assets/releases/download/screensaver-en-v1/46c39148ad889a1f.jpg"
+    },
+    {
+      "id": "4bad612aa792a168",
+      "file": "backgrounds/apk_screensaver_eng/4bad612aa792a168.jpg",
+      "sha256": "4bad612aa792a1687615766fe54387aa8f9ce50b26809b049a81c4471e083fb4",
+      "bytes": 638150,
+      "order": 38,
+      "source_name": "4bad612aa792a168.jpg",
+      "url": "https://github.com/auperudauru/tefekkur-assets/releases/download/screensaver-en-v1/4bad612aa792a168.jpg"
+    },
+    {
+      "id": "51277038f969b44c",
+      "file": "backgrounds/apk_screensaver_eng/51277038f969b44c.jpg",
+      "sha256": "51277038f969b44cc25a156ec9ed913944bfe8d6cdb15e9cf2ff2fadc9634b2f",
+      "bytes": 197868,
+      "order": 39,
+      "source_name": "51277038f969b44c.jpg",
+      "url": "https://github.com/auperudauru/tefekkur-assets/releases/download/screensaver-en-v1/51277038f969b44c.jpg"
+    },
+    {
+      "id": "52681c9564a1ff14",
+      "file": "backgrounds/apk_screensaver_eng/52681c9564a1ff14.jpg",
+      "sha256": "52681c9564a1ff147166ef654b0822953b0b743df510ef25c36f2796f26197f5",
+      "bytes": 306024,
+      "order": 40,
+      "source_name": "52681c9564a1ff14.jpg",
+      "url": "https://github.com/auperudauru/tefekkur-assets/releases/download/screensaver-en-v1/52681c9564a1ff14.jpg"
+    },
+    {
+      "id": "52dea1fa3a195725",
+      "file": "backgrounds/apk_screensaver_eng/52dea1fa3a195725.jpg",
+      "sha256": "52dea1fa3a19572536297f4d7792e378dd34f8af91d91ae2f5f55db93ec88b35",
+      "bytes": 312605,
+      "order": 41,
+      "source_name": "52dea1fa3a195725.jpg",
+      "url": "https://github.com/auperudauru/tefekkur-assets/releases/download/screensaver-en-v1/52dea1fa3a195725.jpg"
+    },
+    {
+      "id": "546e8e35d7b323fa",
+      "file": "backgrounds/apk_screensaver_eng/546e8e35d7b323fa.jpg",
+      "sha256": "546e8e35d7b323fa51ef0ec30069a5a975b662520df283defa1a32e8355ce460",
+      "bytes": 4931626,
+      "order": 42,
+      "source_name": "546e8e35d7b323fa.jpg",
+      "url": "https://github.com/auperudauru/tefekkur-assets/releases/download/screensaver-en-v1/546e8e35d7b323fa.jpg"
+    },
+    {
+      "id": "57bffcff0e8b38e6",
+      "file": "backgrounds/apk_screensaver_eng/57bffcff0e8b38e6.jpg",
+      "sha256": "57bffcff0e8b38e6602918245631a529a197c21f8241a140f6d8d4e1285d5df1",
+      "bytes": 229259,
+      "order": 43,
+      "source_name": "57bffcff0e8b38e6.jpg",
+      "url": "https://github.com/auperudauru/tefekkur-assets/releases/download/screensaver-en-v1/57bffcff0e8b38e6.jpg"
+    },
+    {
+      "id": "5844ab767dc49ed6",
+      "file": "backgrounds/apk_screensaver_eng/5844ab767dc49ed6.jpg",
+      "sha256": "5844ab767dc49ed6028635e04b34b6701eb7949399a2e7ee1c7987a1d7a86088",
+      "bytes": 4839069,
+      "order": 44,
+      "source_name": "5844ab767dc49ed6.jpg",
+      "url": "https://github.com/auperudauru/tefekkur-assets/releases/download/screensaver-en-v1/5844ab767dc49ed6.jpg"
+    },
+    {
+      "id": "5a8e26a7cd4e471c",
+      "file": "backgrounds/apk_screensaver_eng/5a8e26a7cd4e471c.jpg",
+      "sha256": "5a8e26a7cd4e471cb4d7262a170942936a723891558f57333bdaa315e2ca7934",
+      "bytes": 2652175,
+      "order": 45,
+      "source_name": "5a8e26a7cd4e471c.jpg",
+      "url": "https://github.com/auperudauru/tefekkur-assets/releases/download/screensaver-en-v1/5a8e26a7cd4e471c.jpg"
+    },
+    {
+      "id": "5bdf7226434db88a",
+      "file": "backgrounds/apk_screensaver_eng/5bdf7226434db88a.jpg",
+      "sha256": "5bdf7226434db88a0113b98bb85371b702baa0186a6ac2e0a0155d2ffc6d8a9d",
+      "bytes": 200630,
+      "order": 46,
+      "source_name": "5bdf7226434db88a.jpg",
+      "url": "https://github.com/auperudauru/tefekkur-assets/releases/download/screensaver-en-v1/5bdf7226434db88a.jpg"
+    },
+    {
+      "id": "5cbbb9b64635c01e",
+      "file": "backgrounds/apk_screensaver_eng/5cbbb9b64635c01e.jpg",
+      "sha256": "5cbbb9b64635c01eaba8d740968ba8053b645b902f875fde236d1791340a6a63",
+      "bytes": 495915,
+      "order": 47,
+      "source_name": "5cbbb9b64635c01e.jpg",
+      "url": "https://github.com/auperudauru/tefekkur-assets/releases/download/screensaver-en-v1/5cbbb9b64635c01e.jpg"
+    },
+    {
+      "id": "5cd8a1299c394e0b",
+      "file": "backgrounds/apk_screensaver_eng/5cd8a1299c394e0b.jpg",
+      "sha256": "5cd8a1299c394e0b094bd0c78cb3f62dc54ea9396a93879829edc359587f9625",
+      "bytes": 528588,
+      "order": 48,
+      "source_name": "5cd8a1299c394e0b.jpg",
+      "url": "https://github.com/auperudauru/tefekkur-assets/releases/download/screensaver-en-v1/5cd8a1299c394e0b.jpg"
+    },
+    {
+      "id": "5edd3fd2a555c3ac",
+      "file": "backgrounds/apk_screensaver_eng/5edd3fd2a555c3ac.jpg",
+      "sha256": "5edd3fd2a555c3acaadb7433e22fa2a27ab0f99274a6e6968dc7d0aa8303854f",
+      "bytes": 300304,
+      "order": 49,
+      "source_name": "5edd3fd2a555c3ac.jpg",
+      "url": "https://github.com/auperudauru/tefekkur-assets/releases/download/screensaver-en-v1/5edd3fd2a555c3ac.jpg"
+    },
+    {
+      "id": "5f9cd0b335c7694a",
+      "file": "backgrounds/apk_screensaver_eng/5f9cd0b335c7694a.jpg",
+      "sha256": "5f9cd0b335c7694ade97fb856b698d25703eeb0ec1461d19eed2b08b55e7dab7",
+      "bytes": 386452,
+      "order": 50,
+      "source_name": "5f9cd0b335c7694a.jpg",
+      "url": "https://github.com/auperudauru/tefekkur-assets/releases/download/screensaver-en-v1/5f9cd0b335c7694a.jpg"
+    },
+    {
+      "id": "63ec66d3dc92d540",
+      "file": "backgrounds/apk_screensaver_eng/63ec66d3dc92d540.jpg",
+      "sha256": "63ec66d3dc92d540a79a9cd0c57d5b99e6981749476019548dc368aeab0142ff",
+      "bytes": 419495,
+      "order": 51,
+      "source_name": "63ec66d3dc92d540.jpg",
+      "url": "https://github.com/auperudauru/tefekkur-assets/releases/download/screensaver-en-v1/63ec66d3dc92d540.jpg"
+    },
+    {
+      "id": "647da072306daa38",
+      "file": "backgrounds/apk_screensaver_eng/647da072306daa38.jpg",
+      "sha256": "647da072306daa38274d597e98523efac21083d4c93e37bc0f51e87fa7e3db80",
+      "bytes": 161956,
+      "order": 52,
+      "source_name": "647da072306daa38.jpg",
+      "url": "https://github.com/auperudauru/tefekkur-assets/releases/download/screensaver-en-v1/647da072306daa38.jpg"
+    },
+    {
+      "id": "66be732356e8beaa",
+      "file": "backgrounds/apk_screensaver_eng/66be732356e8beaa.jpg",
+      "sha256": "66be732356e8beaae1dd81c85b03a0e6307e5d78f66c088eb8f06a49f928b703",
+      "bytes": 229393,
+      "order": 53,
+      "source_name": "66be732356e8beaa.jpg",
+      "url": "https://github.com/auperudauru/tefekkur-assets/releases/download/screensaver-en-v1/66be732356e8beaa.jpg"
+    },
+    {
+      "id": "698c3f874883d17a",
+      "file": "backgrounds/apk_screensaver_eng/698c3f874883d17a.jpg",
+      "sha256": "698c3f874883d17ac1d0e6f9a8c072f9a48080e3693a2cd8013ddbbe92c14f2e",
+      "bytes": 4311928,
+      "order": 54,
+      "source_name": "698c3f874883d17a.jpg",
+      "url": "https://github.com/auperudauru/tefekkur-assets/releases/download/screensaver-en-v1/698c3f874883d17a.jpg"
+    },
+    {
+      "id": "6eb9cb38b420f5f6",
+      "file": "backgrounds/apk_screensaver_eng/6eb9cb38b420f5f6.jpg",
+      "sha256": "6eb9cb38b420f5f61ff6310ae704e3507cab23c1c426f02ef4bd6a6c120ccfef",
+      "bytes": 229326,
+      "order": 55,
+      "source_name": "6eb9cb38b420f5f6.jpg",
+      "url": "https://github.com/auperudauru/tefekkur-assets/releases/download/screensaver-en-v1/6eb9cb38b420f5f6.jpg"
+    },
+    {
+      "id": "6f67a73e179833e0",
+      "file": "backgrounds/apk_screensaver_eng/6f67a73e179833e0.jpg",
+      "sha256": "6f67a73e179833e05dfe159e95ebec8937d7bd9f4a8c3bee394fd523ea5b200c",
+      "bytes": 171766,
+      "order": 56,
+      "source_name": "6f67a73e179833e0.jpg",
+      "url": "https://github.com/auperudauru/tefekkur-assets/releases/download/screensaver-en-v1/6f67a73e179833e0.jpg"
+    },
+    {
+      "id": "73648e75378694f2",
+      "file": "backgrounds/apk_screensaver_eng/73648e75378694f2.jpg",
+      "sha256": "73648e75378694f2fef18cffed424c98f1d2b9f704973531e5ca2b0982ff495f",
+      "bytes": 661569,
+      "order": 57,
+      "source_name": "73648e75378694f2.jpg",
+      "url": "https://github.com/auperudauru/tefekkur-assets/releases/download/screensaver-en-v1/73648e75378694f2.jpg"
+    },
+    {
+      "id": "736c071d2b9891a2",
+      "file": "backgrounds/apk_screensaver_eng/736c071d2b9891a2.jpg",
+      "sha256": "736c071d2b9891a2e5b4be7dcaabc2e113aca924a2443a6cf551a5fe8127ceac",
+      "bytes": 453888,
+      "order": 58,
+      "source_name": "736c071d2b9891a2.jpg",
+      "url": "https://github.com/auperudauru/tefekkur-assets/releases/download/screensaver-en-v1/736c071d2b9891a2.jpg"
+    },
+    {
+      "id": "7412ff4fc1f1ea6d",
+      "file": "backgrounds/apk_screensaver_eng/7412ff4fc1f1ea6d.jpg",
+      "sha256": "7412ff4fc1f1ea6d9a94b8b41282f7fcfe443d23e9832bfd6cd45a396229b90b",
+      "bytes": 198927,
+      "order": 59,
+      "source_name": "7412ff4fc1f1ea6d.jpg",
+      "url": "https://github.com/auperudauru/tefekkur-assets/releases/download/screensaver-en-v1/7412ff4fc1f1ea6d.jpg"
+    },
+    {
+      "id": "75e73349aaf2c084",
+      "file": "backgrounds/apk_screensaver_eng/75e73349aaf2c084.jpg",
+      "sha256": "75e73349aaf2c0845b92059205a756360bbc04daa90372b77676426481c92ad6",
+      "bytes": 1354272,
+      "order": 60,
+      "source_name": "75e73349aaf2c084.jpg",
+      "url": "https://github.com/auperudauru/tefekkur-assets/releases/download/screensaver-en-v1/75e73349aaf2c084.jpg"
+    },
+    {
+      "id": "775271dd4cdd5cec",
+      "file": "backgrounds/apk_screensaver_eng/775271dd4cdd5cec.jpg",
+      "sha256": "775271dd4cdd5cecda54e490a427db40316f868df1db89931131b8fabed32167",
+      "bytes": 173032,
+      "order": 61,
+      "source_name": "775271dd4cdd5cec.jpg",
+      "url": "https://github.com/auperudauru/tefekkur-assets/releases/download/screensaver-en-v1/775271dd4cdd5cec.jpg"
+    },
+    {
+      "id": "7ad2a3ab1c8057d9",
+      "file": "backgrounds/apk_screensaver_eng/7ad2a3ab1c8057d9.jpg",
+      "sha256": "7ad2a3ab1c8057d9ac9d2db711f3947d9ab25971727f62498a61acbc9732f740",
+      "bytes": 158560,
+      "order": 62,
+      "source_name": "7ad2a3ab1c8057d9.jpg",
+      "url": "https://github.com/auperudauru/tefekkur-assets/releases/download/screensaver-en-v1/7ad2a3ab1c8057d9.jpg"
+    },
+    {
+      "id": "7def552ffca3ee53",
+      "file": "backgrounds/apk_screensaver_eng/7def552ffca3ee53.jpg",
+      "sha256": "7def552ffca3ee53b7099769c2d417a3ffa472a7293a77138973c8245fff618f",
+      "bytes": 209402,
+      "order": 63,
+      "source_name": "7def552ffca3ee53.jpg",
+      "url": "https://github.com/auperudauru/tefekkur-assets/releases/download/screensaver-en-v1/7def552ffca3ee53.jpg"
+    },
+    {
+      "id": "7f9593f44ba4bd13",
+      "file": "backgrounds/apk_screensaver_eng/7f9593f44ba4bd13.jpg",
+      "sha256": "7f9593f44ba4bd131fa25d3e3102fd97d6378494b45006649ce01e969f5f8272",
+      "bytes": 152610,
+      "order": 64,
+      "source_name": "7f9593f44ba4bd13.jpg",
+      "url": "https://github.com/auperudauru/tefekkur-assets/releases/download/screensaver-en-v1/7f9593f44ba4bd13.jpg"
+    },
+    {
+      "id": "7f9d411dab5e0d57",
+      "file": "backgrounds/apk_screensaver_eng/7f9d411dab5e0d57.jpg",
+      "sha256": "7f9d411dab5e0d57f4f92ddc3bb35454cffce62a783d56cb3a549734cbb18e7a",
+      "bytes": 9102144,
+      "order": 65,
+      "source_name": "7f9d411dab5e0d57.jpg",
+      "url": "https://github.com/auperudauru/tefekkur-assets/releases/download/screensaver-en-v1/7f9d411dab5e0d57.jpg"
+    },
+    {
+      "id": "7fd79efffc26ba95",
+      "file": "backgrounds/apk_screensaver_eng/7fd79efffc26ba95.jpg",
+      "sha256": "7fd79efffc26ba957d2973f97d4ea35b0cb18991f7980a6376e5cc11f6868ac8",
+      "bytes": 7839375,
+      "order": 66,
+      "source_name": "7fd79efffc26ba95.jpg",
+      "url": "https://github.com/auperudauru/tefekkur-assets/releases/download/screensaver-en-v1/7fd79efffc26ba95.jpg"
+    },
+    {
+      "id": "806ac505558a734e",
+      "file": "backgrounds/apk_screensaver_eng/806ac505558a734e.jpg",
+      "sha256": "806ac505558a734ea94ac49c5be472a18925454f3d4a07e1a07b83d49ddd6ef9",
+      "bytes": 251062,
+      "order": 67,
+      "source_name": "806ac505558a734e.jpg",
+      "url": "https://github.com/auperudauru/tefekkur-assets/releases/download/screensaver-en-v1/806ac505558a734e.jpg"
+    },
+    {
+      "id": "835db10eea80b7ee",
+      "file": "backgrounds/apk_screensaver_eng/835db10eea80b7ee.jpg",
+      "sha256": "835db10eea80b7ee7ad9025e0e6eb41e81ad0440653dacce243291ec1bb3773c",
+      "bytes": 194904,
+      "order": 68,
+      "source_name": "835db10eea80b7ee.jpg",
+      "url": "https://github.com/auperudauru/tefekkur-assets/releases/download/screensaver-en-v1/835db10eea80b7ee.jpg"
+    },
+    {
+      "id": "8793a1e0486f2966",
+      "file": "backgrounds/apk_screensaver_eng/8793a1e0486f2966.jpg",
+      "sha256": "8793a1e0486f29667103e220458b76b1cdd3c950373771bb1a8b616555f35f2e",
+      "bytes": 271775,
+      "order": 69,
+      "source_name": "8793a1e0486f2966.jpg",
+      "url": "https://github.com/auperudauru/tefekkur-assets/releases/download/screensaver-en-v1/8793a1e0486f2966.jpg"
+    },
+    {
+      "id": "88d771ebdf9d68dd",
+      "file": "backgrounds/apk_screensaver_eng/88d771ebdf9d68dd.jpg",
+      "sha256": "88d771ebdf9d68dd167bc0dfbd56a720b8dad083316e2c787799936c0d394813",
+      "bytes": 121008,
+      "order": 70,
+      "source_name": "88d771ebdf9d68dd.jpg",
+      "url": "https://github.com/auperudauru/tefekkur-assets/releases/download/screensaver-en-v1/88d771ebdf9d68dd.jpg"
+    },
+    {
+      "id": "8acbbd5245dec6a0",
+      "file": "backgrounds/apk_screensaver_eng/8acbbd5245dec6a0.jpg",
+      "sha256": "8acbbd5245dec6a014fc7a100793f5083e21aac0a0e11e11042e773d9efbcc66",
+      "bytes": 159858,
+      "order": 71,
+      "source_name": "8acbbd5245dec6a0.jpg",
+      "url": "https://github.com/auperudauru/tefekkur-assets/releases/download/screensaver-en-v1/8acbbd5245dec6a0.jpg"
+    },
+    {
+      "id": "8aecd2d3c15dca35",
+      "file": "backgrounds/apk_screensaver_eng/8aecd2d3c15dca35.jpg",
+      "sha256": "8aecd2d3c15dca35d120d43a4336b1490b4695e78e0beba4bdf82aa2ab068304",
+      "bytes": 456601,
+      "order": 72,
+      "source_name": "8aecd2d3c15dca35.jpg",
+      "url": "https://github.com/auperudauru/tefekkur-assets/releases/download/screensaver-en-v1/8aecd2d3c15dca35.jpg"
+    },
+    {
+      "id": "8f8c31f0569c441b",
+      "file": "backgrounds/apk_screensaver_eng/8f8c31f0569c441b.jpg",
+      "sha256": "8f8c31f0569c441bc35de2d4c829a5cfa2119a5887beff343944d072f6d0c267",
+      "bytes": 209431,
+      "order": 73,
+      "source_name": "8f8c31f0569c441b.jpg",
+      "url": "https://github.com/auperudauru/tefekkur-assets/releases/download/screensaver-en-v1/8f8c31f0569c441b.jpg"
+    },
+    {
+      "id": "93300e8aee05f17a",
+      "file": "backgrounds/apk_screensaver_eng/93300e8aee05f17a.jpg",
+      "sha256": "93300e8aee05f17a03c1a26503e89b7cbc6a742e912387ab414a97381152b61b",
+      "bytes": 149159,
+      "order": 74,
+      "source_name": "93300e8aee05f17a.jpg",
+      "url": "https://github.com/auperudauru/tefekkur-assets/releases/download/screensaver-en-v1/93300e8aee05f17a.jpg"
+    },
+    {
+      "id": "937fea92fae7d118",
+      "file": "backgrounds/apk_screensaver_eng/937fea92fae7d118.jpg",
+      "sha256": "937fea92fae7d118112c872291ac7bd92ce05b1f7325c4eecd37921ef76b65d1",
+      "bytes": 86668,
+      "order": 75,
+      "source_name": "937fea92fae7d118.jpg",
+      "url": "https://github.com/auperudauru/tefekkur-assets/releases/download/screensaver-en-v1/937fea92fae7d118.jpg"
+    },
+    {
+      "id": "9578543767484fc4",
+      "file": "backgrounds/apk_screensaver_eng/9578543767484fc4.png",
+      "sha256": "9578543767484fc43b3fd1140c34ed1ec5caa0a8621f1e653e5b40c83f368caa",
+      "bytes": 1541681,
+      "order": 76,
+      "source_name": "9578543767484fc4.png",
+      "url": "https://github.com/auperudauru/tefekkur-assets/releases/download/screensaver-en-v1/9578543767484fc4.png"
+    },
+    {
+      "id": "961eec3058cc4cf3",
+      "file": "backgrounds/apk_screensaver_eng/961eec3058cc4cf3.jpg",
+      "sha256": "961eec3058cc4cf3bee70353e084fc8306d7a92fea5a2120a5be7389041f2162",
+      "bytes": 408594,
+      "order": 77,
+      "source_name": "961eec3058cc4cf3.jpg",
+      "url": "https://github.com/auperudauru/tefekkur-assets/releases/download/screensaver-en-v1/961eec3058cc4cf3.jpg"
+    },
+    {
+      "id": "9875a0cb6186db6a",
+      "file": "backgrounds/apk_screensaver_eng/9875a0cb6186db6a.jpg",
+      "sha256": "9875a0cb6186db6a7bb2e383002a239e21ed10a482eeb36b54b1b1447394e991",
+      "bytes": 195481,
+      "order": 78,
+      "source_name": "9875a0cb6186db6a.jpg",
+      "url": "https://github.com/auperudauru/tefekkur-assets/releases/download/screensaver-en-v1/9875a0cb6186db6a.jpg"
+    },
+    {
+      "id": "9a2bcb1004046a01",
+      "file": "backgrounds/apk_screensaver_eng/9a2bcb1004046a01.jpg",
+      "sha256": "9a2bcb1004046a017c06990308d3d498437e5294552ba5add8a7404bea5e2c71",
+      "bytes": 211024,
+      "order": 79,
+      "source_name": "9a2bcb1004046a01.jpg",
+      "url": "https://github.com/auperudauru/tefekkur-assets/releases/download/screensaver-en-v1/9a2bcb1004046a01.jpg"
+    },
+    {
+      "id": "9acc25d21dafeeee",
+      "file": "backgrounds/apk_screensaver_eng/9acc25d21dafeeee.jpg",
+      "sha256": "9acc25d21dafeeee434c10ff339f393f8dd3477f345ac4b2847a249c9bc70a86",
+      "bytes": 202547,
+      "order": 80,
+      "source_name": "9acc25d21dafeeee.jpg",
+      "url": "https://github.com/auperudauru/tefekkur-assets/releases/download/screensaver-en-v1/9acc25d21dafeeee.jpg"
+    },
+    {
+      "id": "9db10781340cacb4",
+      "file": "backgrounds/apk_screensaver_eng/9db10781340cacb4.jpg",
+      "sha256": "9db10781340cacb43c376e65c136f1d25486af44fe9a23132326d7abf01186f4",
+      "bytes": 278137,
+      "order": 81,
+      "source_name": "9db10781340cacb4.jpg",
+      "url": "https://github.com/auperudauru/tefekkur-assets/releases/download/screensaver-en-v1/9db10781340cacb4.jpg"
+    },
+    {
+      "id": "9fcab6a78c98f31e",
+      "file": "backgrounds/apk_screensaver_eng/9fcab6a78c98f31e.jpg",
+      "sha256": "9fcab6a78c98f31e79585a23306b039451cfaea6ddbf1cb9efd92cb96b59d7a0",
+      "bytes": 175355,
+      "order": 82,
+      "source_name": "9fcab6a78c98f31e.jpg",
+      "url": "https://github.com/auperudauru/tefekkur-assets/releases/download/screensaver-en-v1/9fcab6a78c98f31e.jpg"
+    },
+    {
+      "id": "9ffc48944948963d",
+      "file": "backgrounds/apk_screensaver_eng/9ffc48944948963d.jpg",
+      "sha256": "9ffc48944948963da6d9094123675c7b26d5fa2ecd9299abcf2362cf790aa94e",
+      "bytes": 218640,
+      "order": 83,
+      "source_name": "9ffc48944948963d.jpg",
+      "url": "https://github.com/auperudauru/tefekkur-assets/releases/download/screensaver-en-v1/9ffc48944948963d.jpg"
+    },
+    {
+      "id": "a28f90849cdbd5aa",
+      "file": "backgrounds/apk_screensaver_eng/a28f90849cdbd5aa.jpg",
+      "sha256": "a28f90849cdbd5aa96aaa64a9823517a5953fe199081b982ed67cdc3cfbf61ed",
+      "bytes": 112685,
+      "order": 84,
+      "source_name": "a28f90849cdbd5aa.jpg",
+      "url": "https://github.com/auperudauru/tefekkur-assets/releases/download/screensaver-en-v1/a28f90849cdbd5aa.jpg"
+    },
+    {
+      "id": "a2c0cbb95fe95b1d",
+      "file": "backgrounds/apk_screensaver_eng/a2c0cbb95fe95b1d.jpg",
+      "sha256": "a2c0cbb95fe95b1d9411cd9cf1ffe0100e346c56ab80986cff368065f8f585bf",
+      "bytes": 103496,
+      "order": 85,
+      "source_name": "a2c0cbb95fe95b1d.jpg",
+      "url": "https://github.com/auperudauru/tefekkur-assets/releases/download/screensaver-en-v1/a2c0cbb95fe95b1d.jpg"
+    },
+    {
+      "id": "a6ff06cfbe482ede",
+      "file": "backgrounds/apk_screensaver_eng/a6ff06cfbe482ede.jpg",
+      "sha256": "a6ff06cfbe482ede970a28dcf975ef1b42bb7c5cb368a454cc9df71ea59be163",
+      "bytes": 7123987,
+      "order": 86,
+      "source_name": "a6ff06cfbe482ede.jpg",
+      "url": "https://github.com/auperudauru/tefekkur-assets/releases/download/screensaver-en-v1/a6ff06cfbe482ede.jpg"
+    },
+    {
+      "id": "a92d6611b6f0f084",
+      "file": "backgrounds/apk_screensaver_eng/a92d6611b6f0f084.jpg",
+      "sha256": "a92d6611b6f0f084631f3e782c4dfd2d324e1a9968a92a379e7c906e7d42adf7",
+      "bytes": 514560,
+      "order": 87,
+      "source_name": "a92d6611b6f0f084.jpg",
+      "url": "https://github.com/auperudauru/tefekkur-assets/releases/download/screensaver-en-v1/a92d6611b6f0f084.jpg"
+    },
+    {
+      "id": "aa2259cb9f815ef0",
+      "file": "backgrounds/apk_screensaver_eng/aa2259cb9f815ef0.jpg",
+      "sha256": "aa2259cb9f815ef0f44516158fcbf16c402119acf6362792a730771c30ede9d6",
+      "bytes": 313144,
+      "order": 88,
+      "source_name": "aa2259cb9f815ef0.jpg",
+      "url": "https://github.com/auperudauru/tefekkur-assets/releases/download/screensaver-en-v1/aa2259cb9f815ef0.jpg"
+    },
+    {
+      "id": "aa7f7d41725e5cef",
+      "file": "backgrounds/apk_screensaver_eng/aa7f7d41725e5cef.jpg",
+      "sha256": "aa7f7d41725e5cefc0d3e71e310ffa9fabdd440cad51984b0b9a35942c0034a6",
+      "bytes": 201589,
+      "order": 89,
+      "source_name": "aa7f7d41725e5cef.jpg",
+      "url": "https://github.com/auperudauru/tefekkur-assets/releases/download/screensaver-en-v1/aa7f7d41725e5cef.jpg"
+    },
+    {
+      "id": "aadc943dc09cc6ac",
+      "file": "backgrounds/apk_screensaver_eng/aadc943dc09cc6ac.jpg",
+      "sha256": "aadc943dc09cc6acc23c2f57a34acfa696287aa111ef398b41c217313c25f464",
+      "bytes": 202332,
+      "order": 90,
+      "source_name": "aadc943dc09cc6ac.jpg",
+      "url": "https://github.com/auperudauru/tefekkur-assets/releases/download/screensaver-en-v1/aadc943dc09cc6ac.jpg"
+    },
+    {
+      "id": "ab5219d091b68f92",
+      "file": "backgrounds/apk_screensaver_eng/ab5219d091b68f92.jpg",
+      "sha256": "ab5219d091b68f926e7b03cc85c9603a74a39ba630b13efc30f737e43ad9c7f3",
+      "bytes": 178845,
+      "order": 91,
+      "source_name": "ab5219d091b68f92.jpg",
+      "url": "https://github.com/auperudauru/tefekkur-assets/releases/download/screensaver-en-v1/ab5219d091b68f92.jpg"
+    },
+    {
+      "id": "ac5b8b83be8eef8e",
+      "file": "backgrounds/apk_screensaver_eng/ac5b8b83be8eef8e.jpg",
+      "sha256": "ac5b8b83be8eef8e41300581bfab16902e278d551e7a28a6357eac0a4bb20d0f",
+      "bytes": 198698,
+      "order": 92,
+      "source_name": "ac5b8b83be8eef8e.jpg",
+      "url": "https://github.com/auperudauru/tefekkur-assets/releases/download/screensaver-en-v1/ac5b8b83be8eef8e.jpg"
+    },
+    {
+      "id": "adf9251c0679f0cf",
+      "file": "backgrounds/apk_screensaver_eng/adf9251c0679f0cf.jpg",
+      "sha256": "adf9251c0679f0cf7a58b317afcae74fa7b9a93ff34ff17602defb86670bd840",
+      "bytes": 358202,
+      "order": 93,
+      "source_name": "adf9251c0679f0cf.jpg",
+      "url": "https://github.com/auperudauru/tefekkur-assets/releases/download/screensaver-en-v1/adf9251c0679f0cf.jpg"
+    },
+    {
+      "id": "ae267034f30e7648",
+      "file": "backgrounds/apk_screensaver_eng/ae267034f30e7648.jpg",
+      "sha256": "ae267034f30e764896253e04eb440d057b2bec28626584e0e198e98087b32ca4",
+      "bytes": 123976,
+      "order": 94,
+      "source_name": "ae267034f30e7648.jpg",
+      "url": "https://github.com/auperudauru/tefekkur-assets/releases/download/screensaver-en-v1/ae267034f30e7648.jpg"
+    },
+    {
+      "id": "aed8a342e0df6506",
+      "file": "backgrounds/apk_screensaver_eng/aed8a342e0df6506.jpg",
+      "sha256": "aed8a342e0df65060fbfabbb8162fbc407f311f7ab2c65314049dca35002bd31",
+      "bytes": 213838,
+      "order": 95,
+      "source_name": "aed8a342e0df6506.jpg",
+      "url": "https://github.com/auperudauru/tefekkur-assets/releases/download/screensaver-en-v1/aed8a342e0df6506.jpg"
+    },
+    {
+      "id": "af1c5e21077d571f",
+      "file": "backgrounds/apk_screensaver_eng/af1c5e21077d571f.jpg",
+      "sha256": "af1c5e21077d571fd232d0940983bec047afd7b470c180f604d9d29dfb2cec51",
+      "bytes": 239516,
+      "order": 96,
+      "source_name": "af1c5e21077d571f.jpg",
+      "url": "https://github.com/auperudauru/tefekkur-assets/releases/download/screensaver-en-v1/af1c5e21077d571f.jpg"
+    },
+    {
+      "id": "af1d8a4839a79961",
+      "file": "backgrounds/apk_screensaver_eng/af1d8a4839a79961.jpg",
+      "sha256": "af1d8a4839a79961c0846d246c2ff49cbcc3ebcc9cad39ea885265c23b8aecf5",
+      "bytes": 418314,
+      "order": 97,
+      "source_name": "af1d8a4839a79961.jpg",
+      "url": "https://github.com/auperudauru/tefekkur-assets/releases/download/screensaver-en-v1/af1d8a4839a79961.jpg"
+    },
+    {
+      "id": "af5c42a92ee27b8b",
+      "file": "backgrounds/apk_screensaver_eng/af5c42a92ee27b8b.jpg",
+      "sha256": "af5c42a92ee27b8b08ff82e91cc282050177ff68dcbb7b501936456045d28a7a",
+      "bytes": 159363,
+      "order": 98,
+      "source_name": "af5c42a92ee27b8b.jpg",
+      "url": "https://github.com/auperudauru/tefekkur-assets/releases/download/screensaver-en-v1/af5c42a92ee27b8b.jpg"
+    },
+    {
+      "id": "b00ac7fe00ecb7ba",
+      "file": "backgrounds/apk_screensaver_eng/b00ac7fe00ecb7ba.jpg",
+      "sha256": "b00ac7fe00ecb7ba890546f70b9ed6eacb2ac2f799498c989dfb34a7d6f7951e",
+      "bytes": 649937,
+      "order": 99,
+      "source_name": "b00ac7fe00ecb7ba.jpg",
+      "url": "https://github.com/auperudauru/tefekkur-assets/releases/download/screensaver-en-v1/b00ac7fe00ecb7ba.jpg"
+    },
+    {
+      "id": "b15933cc154a069f",
+      "file": "backgrounds/apk_screensaver_eng/b15933cc154a069f.jpg",
+      "sha256": "b15933cc154a069fc231a452950246bac0fe8b3093b8874c4d3ba5a602221248",
+      "bytes": 80930,
+      "order": 100,
+      "source_name": "b15933cc154a069f.jpg",
+      "url": "https://github.com/auperudauru/tefekkur-assets/releases/download/screensaver-en-v1/b15933cc154a069f.jpg"
+    },
+    {
+      "id": "b3da9a0fa000d476",
+      "file": "backgrounds/apk_screensaver_eng/b3da9a0fa000d476.jpg",
+      "sha256": "b3da9a0fa000d476b0651f7958ab4c8d803f316a83ac142ab0fafbd6bd7fdae0",
+      "bytes": 204234,
+      "order": 101,
+      "source_name": "b3da9a0fa000d476.jpg",
+      "url": "https://github.com/auperudauru/tefekkur-assets/releases/download/screensaver-en-v1/b3da9a0fa000d476.jpg"
+    },
+    {
+      "id": "b774347c01d0f806",
+      "file": "backgrounds/apk_screensaver_eng/b774347c01d0f806.jpg",
+      "sha256": "b774347c01d0f80639e39b1ed4f63403247626a040dcfe15e624d706f38f5e60",
+      "bytes": 5187200,
+      "order": 102,
+      "source_name": "b774347c01d0f806.jpg",
+      "url": "https://github.com/auperudauru/tefekkur-assets/releases/download/screensaver-en-v1/b774347c01d0f806.jpg"
+    },
+    {
+      "id": "bc691e914a24bd49",
+      "file": "backgrounds/apk_screensaver_eng/bc691e914a24bd49.jpg",
+      "sha256": "bc691e914a24bd4942ac3b4b45843ef52d9aa8538ffc4ff892b2bff8b56f5251",
+      "bytes": 286854,
+      "order": 103,
+      "source_name": "bc691e914a24bd49.jpg",
+      "url": "https://github.com/auperudauru/tefekkur-assets/releases/download/screensaver-en-v1/bc691e914a24bd49.jpg"
+    },
+    {
+      "id": "c0c4dc059fc07171",
+      "file": "backgrounds/apk_screensaver_eng/c0c4dc059fc07171.jpg",
+      "sha256": "c0c4dc059fc07171167c52e886287130d540cdf9f9ee040880fac749aa327660",
+      "bytes": 728801,
+      "order": 104,
+      "source_name": "c0c4dc059fc07171.jpg",
+      "url": "https://github.com/auperudauru/tefekkur-assets/releases/download/screensaver-en-v1/c0c4dc059fc07171.jpg"
+    },
+    {
+      "id": "c63898c37de143be",
+      "file": "backgrounds/apk_screensaver_eng/c63898c37de143be.jpg",
+      "sha256": "c63898c37de143be5ca62d20f0e28640d94b261152cdcb855d8a4fb185e79987",
+      "bytes": 7621230,
+      "order": 105,
+      "source_name": "c63898c37de143be.jpg",
+      "url": "https://github.com/auperudauru/tefekkur-assets/releases/download/screensaver-en-v1/c63898c37de143be.jpg"
+    },
+    {
+      "id": "c63efdf75b9a6e6c",
+      "file": "backgrounds/apk_screensaver_eng/c63efdf75b9a6e6c.jpg",
+      "sha256": "c63efdf75b9a6e6c538cd3e36e3556358ba4870d83ee1450311f02f15cb6adfa",
+      "bytes": 806651,
+      "order": 106,
+      "source_name": "c63efdf75b9a6e6c.jpg",
+      "url": "https://github.com/auperudauru/tefekkur-assets/releases/download/screensaver-en-v1/c63efdf75b9a6e6c.jpg"
+    },
+    {
+      "id": "c69fb13f4471f018",
+      "file": "backgrounds/apk_screensaver_eng/c69fb13f4471f018.jpg",
+      "sha256": "c69fb13f4471f0187a224ca3c9d27de92f68e1b28b8bde701b95d10ba489a18d",
+      "bytes": 7023536,
+      "order": 107,
+      "source_name": "c69fb13f4471f018.jpg",
+      "url": "https://github.com/auperudauru/tefekkur-assets/releases/download/screensaver-en-v1/c69fb13f4471f018.jpg"
+    },
+    {
+      "id": "c7a26560a12ce63d",
+      "file": "backgrounds/apk_screensaver_eng/c7a26560a12ce63d.jpg",
+      "sha256": "c7a26560a12ce63d7783a02d15b56512fb82db4e058bc0b78adf0aeb6f9da88a",
+      "bytes": 10254370,
+      "order": 108,
+      "source_name": "c7a26560a12ce63d.jpg",
+      "url": "https://github.com/auperudauru/tefekkur-assets/releases/download/screensaver-en-v1/c7a26560a12ce63d.jpg"
+    },
+    {
+      "id": "c82554a850594e05",
+      "file": "backgrounds/apk_screensaver_eng/c82554a850594e05.jpg",
+      "sha256": "c82554a850594e05d1de97df5e7018595d500a35813c2aba5b953e72651929cb",
+      "bytes": 934874,
+      "order": 109,
+      "source_name": "c82554a850594e05.jpg",
+      "url": "https://github.com/auperudauru/tefekkur-assets/releases/download/screensaver-en-v1/c82554a850594e05.jpg"
+    },
+    {
+      "id": "c8d70395c47050a9",
+      "file": "backgrounds/apk_screensaver_eng/c8d70395c47050a9.jpg",
+      "sha256": "c8d70395c47050a953c8729b19d6fe31bea20627870198daa9a6050b3d0de3a7",
+      "bytes": 55752,
+      "order": 110,
+      "source_name": "c8d70395c47050a9.jpg",
+      "url": "https://github.com/auperudauru/tefekkur-assets/releases/download/screensaver-en-v1/c8d70395c47050a9.jpg"
+    },
+    {
+      "id": "cb53f77eaf28b11f",
+      "file": "backgrounds/apk_screensaver_eng/cb53f77eaf28b11f.jpg",
+      "sha256": "cb53f77eaf28b11fb944bbbb56ec99fd4b19014d2de575631fbbe665542182b0",
+      "bytes": 241311,
+      "order": 111,
+      "source_name": "cb53f77eaf28b11f.jpg",
+      "url": "https://github.com/auperudauru/tefekkur-assets/releases/download/screensaver-en-v1/cb53f77eaf28b11f.jpg"
+    },
+    {
+      "id": "cde02b65348fe086",
+      "file": "backgrounds/apk_screensaver_eng/cde02b65348fe086.jpg",
+      "sha256": "cde02b65348fe086f6f57a698094ce19c8a73b448494710fc88e4c6bb80efd2e",
+      "bytes": 190393,
+      "order": 112,
+      "source_name": "cde02b65348fe086.jpg",
+      "url": "https://github.com/auperudauru/tefekkur-assets/releases/download/screensaver-en-v1/cde02b65348fe086.jpg"
+    },
+    {
+      "id": "cde28ecf23f11df3",
+      "file": "backgrounds/apk_screensaver_eng/cde28ecf23f11df3.jpg",
+      "sha256": "cde28ecf23f11df3ea9f9a071f05dc03dde89ede84019ac95492a0ecc99e94c6",
+      "bytes": 113112,
+      "order": 113,
+      "source_name": "cde28ecf23f11df3.jpg",
+      "url": "https://github.com/auperudauru/tefekkur-assets/releases/download/screensaver-en-v1/cde28ecf23f11df3.jpg"
+    },
+    {
+      "id": "d03a89607540358a",
+      "file": "backgrounds/apk_screensaver_eng/d03a89607540358a.jpg",
+      "sha256": "d03a89607540358a914dd6d950859c519b664f11258b43a3bed40e2a5e717aa4",
+      "bytes": 452896,
+      "order": 114,
+      "source_name": "d03a89607540358a.jpg",
+      "url": "https://github.com/auperudauru/tefekkur-assets/releases/download/screensaver-en-v1/d03a89607540358a.jpg"
+    },
+    {
+      "id": "d13516547e7b43e9",
+      "file": "backgrounds/apk_screensaver_eng/d13516547e7b43e9.jpg",
+      "sha256": "d13516547e7b43e9d61d502e4a56b0a231db5579fba45a56bda70a072ce51784",
+      "bytes": 174638,
+      "order": 115,
+      "source_name": "d13516547e7b43e9.jpg",
+      "url": "https://github.com/auperudauru/tefekkur-assets/releases/download/screensaver-en-v1/d13516547e7b43e9.jpg"
+    },
+    {
+      "id": "d31553626cd59a14",
+      "file": "backgrounds/apk_screensaver_eng/d31553626cd59a14.jpg",
+      "sha256": "d31553626cd59a145d743036651dbba3886f9096f4bb91af95d4d8882e8eaaa9",
+      "bytes": 141854,
+      "order": 116,
+      "source_name": "d31553626cd59a14.jpg",
+      "url": "https://github.com/auperudauru/tefekkur-assets/releases/download/screensaver-en-v1/d31553626cd59a14.jpg"
+    },
+    {
+      "id": "d426ba700642e45c",
+      "file": "backgrounds/apk_screensaver_eng/d426ba700642e45c.jpg",
+      "sha256": "d426ba700642e45ce16cc6d6f818f97bbb041757f772c594765acc29ee49dc90",
+      "bytes": 220447,
+      "order": 117,
+      "source_name": "d426ba700642e45c.jpg",
+      "url": "https://github.com/auperudauru/tefekkur-assets/releases/download/screensaver-en-v1/d426ba700642e45c.jpg"
+    },
+    {
+      "id": "d4e6430d69adbded",
+      "file": "backgrounds/apk_screensaver_eng/d4e6430d69adbded.jpg",
+      "sha256": "d4e6430d69adbded39f7262a1d2b3804b9a53d58e2b15fa3540bc345c2a03061",
+      "bytes": 88148,
+      "order": 118,
+      "source_name": "d4e6430d69adbded.jpg",
+      "url": "https://github.com/auperudauru/tefekkur-assets/releases/download/screensaver-en-v1/d4e6430d69adbded.jpg"
+    },
+    {
+      "id": "d52925bca9c43953",
+      "file": "backgrounds/apk_screensaver_eng/d52925bca9c43953.jpg",
+      "sha256": "d52925bca9c43953069ca5c374907a0e92f70f1a6e1684b2ce753c1d18040528",
+      "bytes": 134188,
+      "order": 119,
+      "source_name": "d52925bca9c43953.jpg",
+      "url": "https://github.com/auperudauru/tefekkur-assets/releases/download/screensaver-en-v1/d52925bca9c43953.jpg"
+    },
+    {
+      "id": "d8086f54f17d2ac2",
+      "file": "backgrounds/apk_screensaver_eng/d8086f54f17d2ac2.jpg",
+      "sha256": "d8086f54f17d2ac2d3a7ddc0a617b1f2090c2cd88ac377c48031ec73f4e43394",
+      "bytes": 260221,
+      "order": 120,
+      "source_name": "d8086f54f17d2ac2.jpg",
+      "url": "https://github.com/auperudauru/tefekkur-assets/releases/download/screensaver-en-v1/d8086f54f17d2ac2.jpg"
+    },
+    {
+      "id": "d968f30896b339aa",
+      "file": "backgrounds/apk_screensaver_eng/d968f30896b339aa.jpg",
+      "sha256": "d968f30896b339aac44b56bc1b32b21cb90a91a7cf665071726f820a218f54fd",
+      "bytes": 303415,
+      "order": 121,
+      "source_name": "d968f30896b339aa.jpg",
+      "url": "https://github.com/auperudauru/tefekkur-assets/releases/download/screensaver-en-v1/d968f30896b339aa.jpg"
+    },
+    {
+      "id": "db9291f4de016871",
+      "file": "backgrounds/apk_screensaver_eng/db9291f4de016871.jpg",
+      "sha256": "db9291f4de016871d49401419208094af3c4c53578afb6de48645c2b162158d7",
+      "bytes": 335127,
+      "order": 122,
+      "source_name": "db9291f4de016871.jpg",
+      "url": "https://github.com/auperudauru/tefekkur-assets/releases/download/screensaver-en-v1/db9291f4de016871.jpg"
+    },
+    {
+      "id": "de3fff2930a2a62b",
+      "file": "backgrounds/apk_screensaver_eng/de3fff2930a2a62b.jpg",
+      "sha256": "de3fff2930a2a62b372602b94e1a60006ef9104aae9b7478e8263f7cdb2e0c72",
+      "bytes": 1482885,
+      "order": 123,
+      "source_name": "de3fff2930a2a62b.jpg",
+      "url": "https://github.com/auperudauru/tefekkur-assets/releases/download/screensaver-en-v1/de3fff2930a2a62b.jpg"
+    },
+    {
+      "id": "e36376376e25950b",
+      "file": "backgrounds/apk_screensaver_eng/e36376376e25950b.jpg",
+      "sha256": "e36376376e25950bfd2eca2479407c5368045ec967ba00d21013a3c4be942a9e",
+      "bytes": 6563874,
+      "order": 124,
+      "source_name": "e36376376e25950b.jpg",
+      "url": "https://github.com/auperudauru/tefekkur-assets/releases/download/screensaver-en-v1/e36376376e25950b.jpg"
+    },
+    {
+      "id": "e59bebe3d0eb0a8c",
+      "file": "backgrounds/apk_screensaver_eng/e59bebe3d0eb0a8c.jpg",
+      "sha256": "e59bebe3d0eb0a8c8bcaf330a321bc0797db9ada3a9c833de1c01d53d4ef5d6e",
+      "bytes": 96582,
+      "order": 125,
+      "source_name": "e59bebe3d0eb0a8c.jpg",
+      "url": "https://github.com/auperudauru/tefekkur-assets/releases/download/screensaver-en-v1/e59bebe3d0eb0a8c.jpg"
+    },
+    {
+      "id": "e75dc08f5dde533d",
+      "file": "backgrounds/apk_screensaver_eng/e75dc08f5dde533d.jpg",
+      "sha256": "e75dc08f5dde533d459eb49d75a5ad3f5e949dec661507d4773188bd1eee9e4b",
+      "bytes": 288542,
+      "order": 126,
+      "source_name": "e75dc08f5dde533d.jpg",
+      "url": "https://github.com/auperudauru/tefekkur-assets/releases/download/screensaver-en-v1/e75dc08f5dde533d.jpg"
+    },
+    {
+      "id": "ebce5cb3b3f1cdb0",
+      "file": "backgrounds/apk_screensaver_eng/ebce5cb3b3f1cdb0.jpg",
+      "sha256": "ebce5cb3b3f1cdb01e97648e334c8b3f0bb18f1f1b56f4f37e6a5b7ce53b41d6",
+      "bytes": 181611,
+      "order": 127,
+      "source_name": "ebce5cb3b3f1cdb0.jpg",
+      "url": "https://github.com/auperudauru/tefekkur-assets/releases/download/screensaver-en-v1/ebce5cb3b3f1cdb0.jpg"
+    },
+    {
+      "id": "edc2d428dd1ea388",
+      "file": "backgrounds/apk_screensaver_eng/edc2d428dd1ea388.jpg",
+      "sha256": "edc2d428dd1ea388e4eb6bddfb432750c8b853ef387676383b57ea5eb9950486",
+      "bytes": 10111331,
+      "order": 128,
+      "source_name": "edc2d428dd1ea388.jpg",
+      "url": "https://github.com/auperudauru/tefekkur-assets/releases/download/screensaver-en-v1/edc2d428dd1ea388.jpg"
+    },
+    {
+      "id": "ee167a2d19dfe958",
+      "file": "backgrounds/apk_screensaver_eng/ee167a2d19dfe958.jpg",
+      "sha256": "ee167a2d19dfe958e8f0934b504d09b24b559277316560bd1a26fb272eacf5e1",
+      "bytes": 284335,
+      "order": 129,
+      "source_name": "ee167a2d19dfe958.jpg",
+      "url": "https://github.com/auperudauru/tefekkur-assets/releases/download/screensaver-en-v1/ee167a2d19dfe958.jpg"
+    },
+    {
+      "id": "ef854a6f74d80b44",
+      "file": "backgrounds/apk_screensaver_eng/ef854a6f74d80b44.jpg",
+      "sha256": "ef854a6f74d80b44477ca95527aaa60588f5aa2b5df05e02369749e186baebe2",
+      "bytes": 4609712,
+      "order": 130,
+      "source_name": "ef854a6f74d80b44.jpg",
+      "url": "https://github.com/auperudauru/tefekkur-assets/releases/download/screensaver-en-v1/ef854a6f74d80b44.jpg"
+    },
+    {
+      "id": "f016d2a0bdd3f3dd",
+      "file": "backgrounds/apk_screensaver_eng/f016d2a0bdd3f3dd.jpg",
+      "sha256": "f016d2a0bdd3f3dde55b95c20fe214b33189411cd12a8b0f4fa1f10e0eb95d0c",
+      "bytes": 269521,
+      "order": 131,
+      "source_name": "f016d2a0bdd3f3dd.jpg",
+      "url": "https://github.com/auperudauru/tefekkur-assets/releases/download/screensaver-en-v1/f016d2a0bdd3f3dd.jpg"
+    },
+    {
+      "id": "f0246dc2254d21f8",
+      "file": "backgrounds/apk_screensaver_eng/f0246dc2254d21f8.jpg",
+      "sha256": "f0246dc2254d21f820e1ee6f1ea3c3fc2343c8ffe0a8d9f4f3c7060ae9f67e59",
+      "bytes": 162166,
+      "order": 132,
+      "source_name": "f0246dc2254d21f8.jpg",
+      "url": "https://github.com/auperudauru/tefekkur-assets/releases/download/screensaver-en-v1/f0246dc2254d21f8.jpg"
+    },
+    {
+      "id": "f1d26556311d69f1",
+      "file": "backgrounds/apk_screensaver_eng/f1d26556311d69f1.jpg",
+      "sha256": "f1d26556311d69f1fb43a156f95f70ef5d3dfe8806ab18c82c6798c5726544d0",
+      "bytes": 243117,
+      "order": 133,
+      "source_name": "f1d26556311d69f1.jpg",
+      "url": "https://github.com/auperudauru/tefekkur-assets/releases/download/screensaver-en-v1/f1d26556311d69f1.jpg"
+    },
+    {
+      "id": "f468f1aa9712f003",
+      "file": "backgrounds/apk_screensaver_eng/f468f1aa9712f003.jpg",
+      "sha256": "f468f1aa9712f003414e81a5819f1b4748a8249a553ba70babfe8f50a695aed0",
+      "bytes": 5024376,
+      "order": 134,
+      "source_name": "f468f1aa9712f003.jpg",
+      "url": "https://github.com/auperudauru/tefekkur-assets/releases/download/screensaver-en-v1/f468f1aa9712f003.jpg"
+    },
+    {
+      "id": "f7697addfb9aa6d1",
+      "file": "backgrounds/apk_screensaver_eng/f7697addfb9aa6d1.jpg",
+      "sha256": "f7697addfb9aa6d1594999a9c27a86974826f586975d6e1da2fb018037c639f8",
+      "bytes": 709719,
+      "order": 135,
+      "source_name": "f7697addfb9aa6d1.jpg",
+      "url": "https://github.com/auperudauru/tefekkur-assets/releases/download/screensaver-en-v1/f7697addfb9aa6d1.jpg"
+    },
+    {
+      "id": "f7edfd651f9cd8fe",
+      "file": "backgrounds/apk_screensaver_eng/f7edfd651f9cd8fe.png",
+      "sha256": "f7edfd651f9cd8fe98952d5eeafbf60430015fb7ff49c377265f85cb5d6d4c93",
+      "bytes": 2131500,
+      "order": 136,
+      "source_name": "f7edfd651f9cd8fe.png",
+      "url": "https://github.com/auperudauru/tefekkur-assets/releases/download/screensaver-en-v1/f7edfd651f9cd8fe.png"
+    },
+    {
+      "id": "f80c3af5ffdc662b",
+      "file": "backgrounds/apk_screensaver_eng/f80c3af5ffdc662b.jpg",
+      "sha256": "f80c3af5ffdc662bd99af0016596fcd2bd8b6850fe85ae3ae5fd660f184eb8b1",
+      "bytes": 100333,
+      "order": 137,
+      "source_name": "f80c3af5ffdc662b.jpg",
+      "url": "https://github.com/auperudauru/tefekkur-assets/releases/download/screensaver-en-v1/f80c3af5ffdc662b.jpg"
+    },
+    {
+      "id": "f84adf7308eb1118",
+      "file": "backgrounds/apk_screensaver_eng/f84adf7308eb1118.jpg",
+      "sha256": "f84adf7308eb11183cecdb44dce362b99ab28d8563035b0c0f24533343b84d28",
+      "bytes": 147033,
+      "order": 138,
+      "source_name": "f84adf7308eb1118.jpg",
+      "url": "https://github.com/auperudauru/tefekkur-assets/releases/download/screensaver-en-v1/f84adf7308eb1118.jpg"
+    },
+    {
+      "id": "f916ab3f8401e2eb",
+      "file": "backgrounds/apk_screensaver_eng/f916ab3f8401e2eb.jpg",
+      "sha256": "f916ab3f8401e2eb7e8a047ef100e9cdfcbb099634da719669a99d643031f37c",
+      "bytes": 303782,
+      "order": 139,
+      "source_name": "f916ab3f8401e2eb.jpg",
+      "url": "https://github.com/auperudauru/tefekkur-assets/releases/download/screensaver-en-v1/f916ab3f8401e2eb.jpg"
+    },
+    {
+      "id": "fa1e50a4da9a4028",
+      "file": "backgrounds/apk_screensaver_eng/fa1e50a4da9a4028.jpg",
+      "sha256": "fa1e50a4da9a402887b4f62ff627dbb9d83b6c78ec12e3bc6ddbeb775e243289",
+      "bytes": 418584,
+      "order": 140,
+      "source_name": "fa1e50a4da9a4028.jpg",
+      "url": "https://github.com/auperudauru/tefekkur-assets/releases/download/screensaver-en-v1/fa1e50a4da9a4028.jpg"
+    },
+    {
+      "id": "fb2d5b6bba332ed7",
+      "file": "backgrounds/apk_screensaver_eng/fb2d5b6bba332ed7.jpg",
+      "sha256": "fb2d5b6bba332ed75f1b7a41172a1561e4013ff65549b59394135cba2f6611d6",
+      "bytes": 351816,
+      "order": 141,
+      "source_name": "fb2d5b6bba332ed7.jpg",
+      "url": "https://github.com/auperudauru/tefekkur-assets/releases/download/screensaver-en-v1/fb2d5b6bba332ed7.jpg"
+    },
+    {
+      "id": "fd5dc7345c66f6b8",
+      "file": "backgrounds/apk_screensaver_eng/fd5dc7345c66f6b8.jpg",
+      "sha256": "fd5dc7345c66f6b829293d494b47a084a17cfa765d3c253e342f64d07e178969",
+      "bytes": 866358,
+      "order": 142,
+      "source_name": "fd5dc7345c66f6b8.jpg",
+      "url": "https://github.com/auperudauru/tefekkur-assets/releases/download/screensaver-en-v1/fd5dc7345c66f6b8.jpg"
+    },
+    {
+      "id": "fdef369117834583",
+      "file": "backgrounds/apk_screensaver_eng/fdef369117834583.jpg",
+      "sha256": "fdef3691178345836b09d2e29de404f0930735c7ff60022ea5614421e1a5d8d5",
+      "bytes": 290829,
+      "order": 143,
+      "source_name": "fdef369117834583.jpg",
+      "url": "https://github.com/auperudauru/tefekkur-assets/releases/download/screensaver-en-v1/fdef369117834583.jpg"
+    },
+    {
+      "id": "ff6934aeb7d02a20",
+      "file": "backgrounds/apk_screensaver_eng/ff6934aeb7d02a20.jpg",
+      "sha256": "ff6934aeb7d02a208ec04fd953e555d6fd1a19f2003a83f3b573cb34f8ca1a28",
+      "bytes": 107994,
+      "order": 144,
+      "source_name": "ff6934aeb7d02a20.jpg",
+      "url": "https://github.com/auperudauru/tefekkur-assets/releases/download/screensaver-en-v1/ff6934aeb7d02a20.jpg"
+    }
+  ]
+}
